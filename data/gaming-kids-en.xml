@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Are you gaming too much?</title>
+	<description><![CDATA[Think you might be gaming too much?<br/>Take the quiz to find out.]]></description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>gaming-kids-bg.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Do you game 15 hours or more per week?</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>			
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>Do you think about gaming when you aren’t online, and feel like you can’t wait to get home to play?</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>
+			<response></response>
+		</q>	
+		<q><!-- 3 -->
+			<text>Do you game when you're supposed to be sleeping?</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>
+			<response></response>
+		</q>			
+		<q><!-- 4 -->
+			<text>Do you feel too tired to go to school because you're gaming late at night?</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>
+			<response></response>
+		</q>		
+		<q><!-- 5 -->
+			<text>Do you have more friends online than you do in real life?</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>Have you ever felt guilty about how much you game?</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>
+			<response></response>
+		</q>					
+		<q><!-- 7 -->
+			<text>Do you feel annoyed when others say you game too much?</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>
+			<response></response>
+		</q>
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr>		
+		<p>If you answered ‘yes’ to four or more of these questions, your gaming might be getting out of hand.</p>			
+		<p><a href="http://www.kidshelpphone.ca/Kids/InfoBooth/The-Internet/Online-gaming/Am-I-gaming-too-much.aspx" target="_top">Click here for tips that can help.</a></p>]]>		
+	</scores>
+</data>

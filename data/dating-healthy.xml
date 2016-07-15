@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Am I in a healthy relationship?</title>
+	<description><![CDATA[Not sure if your relationship is healthy or unhealthy? Take this quiz to learn more.]]></description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>datingHealthy-bg.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage>datingHealthy-splash.jpg</titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>I feel comfortable being myself around the person I'm dating.</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>			
+			<response>You shouldn't have to put on a "mask" in front of the person you're dating.  You should feel that your boyfriend or girlfriend accepts you for who you are – and vice versa.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>I trust that the person I'm dating tells me the truth about their feelings and actions.</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response>You should be able to trust that your boyfriend or girlfriend cares about you and will support you.</response>
+		</q>		
+		<q><!-- 3 -->
+			<text>I believe that the person I'm dating wants good things for me.</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response>You and your boyfriend or girlfriend should want each other to be healthy and happy.  This means that you look out for each other and you treat each other well.</response>
+		</q>
+		<q><!-- 4 -->
+			<text>I am afraid of the person I'm dating.</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>
+			<response>If you are afraid of your boyfriend or girlfriend this is a serious warning sign. It is NEVER okay for someone to do things that scare or harm you, such as following or stalking you, threatening you, physically hurting you or pressuring you to do things you don't want to do. If you are experiencing any of these problems, try talking to an adult you trust about it, call Kids Help Phone at 1-800-668-6868 or contact us online. We're here to support you.</response>
+		</q>
+		<q><!-- 5 -->
+			<text>My boyfriend or girlfriend and I both make the decisions in the relationship.</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response>In a healthy relationship, both people are involved in making decisions, and are both willing to work to agree.</response>
+		</q>
+		<q><!-- 6 -->
+			<text>My boyfriend or girlfriend and I respect each other.</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response>In a relationship, respect means listening to each other, taking each other's opinions seriously and treating each other with kindness.  It also means that you and the other person don't talk down to each other or boss each other around.</response>
+		</q>
+		<q><!-- 7 -->
+			<text>My boyfriend or girlfriend and I want to learn more about each other.</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response>We all have many sides to us and we change and grow over time. In a healthy relationship, you and the person you're dating will always find something new to discover about each other.</response>
+		</q>
+		<q><!-- 8 -->
+			<text>I feel comfortable telling the person I'm dating if I need something or if I feel uncomfortable.</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response>In a healthy relationship, you should feel comfortable bringing up your needs and concerns.</response>
+		</q>
+		<q><!-- 9 -->
+			<text>I feel like I'm the one who has to be responsible for making the relationship work.</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>
+			<response>In a healthy relationship, both people are responsible for making it work—it's not just up to one person. Sharing responsibility for the relationship is a sign that you're on the right track.</response>
+		</q>
+		<q><!-- 10 -->
+			<text>My boyfriend or girlfriend supports me by comforting me, listening to me and showing me that they care about me.</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response>Providing emotional support for each other is a big part of a healthy relationship.</response>
+		</q>
+		<q><!-- 11 -->
+			<text>I spend a lot of time thinking about things that happen in the relationship, such as "What could I have done differently?" or "What did I do?"</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>
+			<response>If you are asking yourself these sorts of questions a lot, it may mean that you feel uncomfortable talking to your boyfriend or girlfriend about the relationship. Your communication may need some work.</response>
+		</q>
+		<q><!-- 12 -->
+			<text>My boyfriend or girlfriend and I talk about things that are important to us.</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response>Talking about things—like what's going on in your lives, your hopes, dreams and fears, and anything else that might be on your mind - helps you and your boyfriend or girlfriend to stay connected in a healthy way.</response>
+		</q>				
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr/>
+
+		<h3>0-4 = Danger zone</h3>
+		<p>Your answers suggest that you may be in an unhealthy or unsafe relationship. Ask yourself: "do I feel that the person I'm dating respects me?"; "do I feel comfortable?"; "am I happy in this relationship?" If the answer to any of these questions is "no", then it may be time to make a change.  Also, note that if you answered "Yes" to question 4, indicating that you are afraid of your partner, <a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Dating/healthy-relationships.aspx">your relationship may not be safe.</a></p>
+		<p>This may be a good time for you to take a hard look at your relationship and see if it is meeting your needs. If you would like to speak with someone about relationships, remember that Kids Help Phone is always here.  You can call and speak with a professional counsellor about your relationship and together you can work on any concerns you may have.</p>
+
+		<h3>5-8 = Storm ahead?</h3>
+		<p>Every relationship has its ups and downs – your answers suggest that your relationship is not as strong or healthy as it could be. <a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Dating-2013/healthy-relationships.aspx">Read our tips for ideas on how to strengthen your relationship</a>. Also, keep your eye on number 4 in this quiz - if you answered "Yes" to this question, indicating that you are afraid of your partner, this is a major red flag and you may want to think about making a change.</p>
+
+		<h3>9-12 = Smooth sailing</h3>
+		<p>According to your answers, your relationship sounds healthy.  A healthy relationship is one that meets your needs- you feel happy and safe with your boyfriend or girlfriend and you both respect each other and look out for each other.  However, it is important to note that if you answered "Yes" to question number 4, indicating that you are afraid of the person you are dating, then you are not in a healthy relationship.  A healthy relationship is one where each person feels safe, both physically and emotionally and can be themselves.</p>
+		<p>Relationships can be confusing.  If you would like to speak with someone about relationships, remember that Kids Help Phone is always here.  You can call and speak with a counsellor about your relationship and together you can work on any concerns you may have.</p>		
+]]></scores>
+</data>

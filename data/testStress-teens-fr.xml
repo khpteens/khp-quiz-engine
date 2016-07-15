@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Es-tu stressé par les examens ?</title>
+	<description><![CDATA[Pense à tes derniers examens, lis les énoncés suivants<br/>et choisis s’ils sont vrais ou faux dans ton cas.]]></description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>testStress-teens.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>J’ai eu plusieurs bonnes expériences avec mes examens.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>			
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>J’ai l’impression que je dois avoir un résultat parfait aux examens.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>
+			<response></response>
+		</q>	
+		<q><!-- 3 -->
+			<text>Je crois que je peux bien réussir mes examens.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response></response>
+		</q>			
+		<q><!-- 4 -->
+			<text>Je crois que les résultats de mes examens dépendent de moi.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response></response>
+		</q>		
+		<q><!-- 5 -->
+			<text>En général, je gère bien mon temps pendant les examens.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>Quand il y a une question que je ne comprends pas, soit je la saute pour y revenir plus tard, soit je fais de mon mieux pour trouver la réponse.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response></response>
+		</q>					
+		<q><!-- 7 -->
+			<text>Pour réussir dans la vie, je dois avoir de bons résultats aux examens.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>
+			<response></response>
+		</q>
+		<q><!-- 8 -->
+			<text>Je suis inquiet ou angoissé de savoir si je vais réussir mes examens.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>
+			<response></response>
+		</q>
+		<q><!-- 9 -->
+			<text>Quand je pense à un examen qui s’en vient ou que je viens de finir, je me sens fâché, triste, déçu ou coupable.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>
+			<response></response>
+		</q>
+		<q><!-- 10 -->
+			<text>Il est important que je réussisse bien mes examens pour mieux atteindre mes buts.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response></response>
+		</q>
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr>
+		<h3>Calme et maître de toi (De 8 à 10 points)</h3>
+		<p>Les examens ne sont pas un problème pour toi. Tu as compris que la clé du succès, c’est d’étudier et non de stresser. Avant un examen très important, tu sais comment réduire ton stress en faisant des choses comme respirer profondément, dormir suffisamment et bien te préparer. As-tu pensé à partager tes trucs anti-stress avec tes amis? Sans doute qu’ils aimeraient beaucoup connaître tes secrets!</p>	
+
+		<h3>Parfois stressé (De 4 à 7 points)</h3>
+		<p>Comme tout le monde, tu es parfois stressé à propos des examens, surtout s’il y en a un particulièrement important qui s’en vient. Les ados sont très souvent stressés par les examens, mais tu peux apprendre à diminuer ton niveau de stress, par exemple en te préparant bien.</p>
+		<p><a href="http://www.jeunessejecoute.ca/Teens/InfoBooth/School/Test-taking-tips.aspx" target="_top">Pour savoir comment relaxer avant un examen, jette un coup d’œil à nos conseils d’étude.</a></p>	
+
+		<h3>Super stressé (De 0 à 3 points)</h3>
+		<p>On dirait que les examens et les devoirs te stressent beaucoup. Tu te sens peut-être un peu dépassé par tout ça. Ça pourrait être parce que tu ne te prépares pas bien aux examens ou que tu étudies tellement que tu finis par ne plus dormir et par perdre ta concentration. Sais-tu ce que c’est que l’anxiété? L’anxiété, ce n’est pas la même chose que le stress causé par les examens, même si certains symptômes se ressemblent</p>
+		<p><a href="http://www.jeunessejecoute.ca/Teens/InfoBooth/Emotional-Health/Anxiety.aspx" target="_top">En apprendre plus sur les troubles anxieux.</a></p> 
+		<p>Que tu te sentes stressé ou anxieux, tu pourrais en parler à un adulte en qui tu as confiance ou appeler un intervenant de Jeunesse, J’écoute. Nous sommes là pour t’aider.</p>
+		]]>		
+	</scores>
+</data>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Are you test stressed?</title>
+	<description><![CDATA[Keeping a recent test in mind, read the following statements,<br/>and decide if they’re true or false.]]></description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>testStress-kids.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>It is very important to me that I do well on this test.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>I believe that if I try my best, I can do well on this test.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response></response>
+		</q>
+		<q><!-- 3 -->
+			<text>If there are questions that I don’t understand on this test, I will be able to handle this—I might skip the question and move on or try my best to figure it out.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response></response>
+		</q>
+		<q><!-- 4 -->
+			<text>I am worried or afraid of how I will do on this test. </text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response></response>
+		</q>
+		<q><!-- 5 -->
+			<text>I feel like I have to get perfect on the test.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response></response>
+		</q>		
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr>
+		<h3>Calm and cool (4-5 points)</h3>
+		<p>Great job! Not only do you understand that over-stressing can make you do worse on tests, but you also know what to do to prepare for tests so that you don’t get stressed once you’re in the classroom. Have you thought about sharing your study tips with your stressed-out friends? We’re sure they’ll appreciate the help!</p>	
+
+		<h3>Somewhat stressed (2-3 points)</h3>
+		<p>Like most kids, you stress about tests sometimes. Still, you know what to do to keep stress from making it more difficult to do your best on a test.</p>
+		<p><a href="http://www.kidshelpphone.ca/Kids/InfoBooth/School/Test-like-the-best.aspx" target="_top">Before your next test, try reading our study tips</a><br/>before you hit the books and remember to get a good night’s sleep so that you don’t start getting stressed when your pencil hits paper.</p>	
+
+		<h3>Super Stressed (0-1 points)</h3>
+		<p>If you’re stressed about tests and school assignments, you’re not alone! There’s a lot of pressure on kids now to do well in school, and it can be difficult to do your best in school if you’re always worrying about your grades. Still, stress can actually make you do worse on tests, especially if you’re losing sleep or finding it hard to focus.</p>
+		<p><a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Emotional-Health/Anxiety.aspx" target="_top">Check out our section on panic and anxiety</a> – do any of these symptoms sound familiar? You can always call Kids Help Phone to talk about stress and school – we’re here to help.</p>
+		]]>		
+	</scores>
+</data>

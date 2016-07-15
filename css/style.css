@@ -1,0 +1,373 @@
+/*
+Project: HTML5 Multiple Choice quiz maker
+Author: Mark Duiker (on behalf of Kids Help Phone)
+Updated: June 2016
+*/
+
+#canvas {
+    font-family: 'Open Sans', Arial, Sans-serif;
+    font-size: 1em;
+    line-height: 1.4em;
+    position: relative;
+    width: 320px;
+    height: 568px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+#canvas.fullscreen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+}
+
+.container {
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    width: 100%;
+    height: 100%;
+}
+
+#bgContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.bg {
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    left: 0;
+}
+
+
+/* page specific styling */
+
+.page {
+    position: relative;
+    z-index: 1;
+    display: none;
+    min-width: 260px;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 30px;
+    /*text-align: left;*/
+}
+
+#splash {
+    text-align: center;
+    color: white;
+}
+
+h1,
+#score h2 {
+    font-family: 'Amatic SC', 'Open Sans', Sans-serif;
+    font-size: 2.8em;
+    font-weight: normal;
+    line-height: 1em;
+}
+
+#splash h1,
+#splash p {
+    margin: 0 auto 20px;
+}
+
+.questionNum {
+    font-size: .9em;
+    margin: 75px 0 10px;
+    text-align: left;
+}
+
+h2.question {
+    font-size: 1.1em;
+    font-weight: normal;
+    line-height: 1.4em;
+    margin: 0 0 25px;
+    text-align: left;
+}
+
+#score {
+    padding-bottom: 25px;
+    text-align: left;
+}
+
+#score h2 {
+    margin-top: 75px;
+}
+
+#score h3 {
+    font-family: 'amatic sc';
+    font-size: 2em;
+    line-height: 1em;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+#score .contact-cta {
+    margin-top: 50px;
+    padding: 1px 25px;
+    border-radius: 4px;
+    /*border: 1px solid white;*/
+    background-color: rgba(0, 0, 0, .4);
+}
+
+#score .contact-cta h3 {
+    margin-top: 20px;
+}
+
+#score p {
+    margin-top: 0;
+    color: #d2f5ff;
+}
+
+#score p strong {
+    color: white;
+}
+
+#score a {
+    display: inline-block;
+    margin: 10px 0;
+    -webkit-transition: color .2s ease-out, background .2s ease-out;
+    -moz-transition: color .2s ease-out, background .2s ease-out;
+    -o-transition: color .2s ease-out, background .2s ease-out;
+    transition: color .2s ease-out, background .2s ease-out;
+}
+
+.rank-section {
+    position: relative;
+}
+
+.rank-section.min {
+    overflow-y: hidden;
+    max-height: 35px;
+    background: linear-gradient(rgba(0,0,0,0) 25px, rgba(0,0,0,.2));
+    border-bottom: 1px solid rgba(0,0,0,.2);
+}
+
+.rank-section p:first-child {
+    margin-top: 0;
+}
+
+.rank-section .expand-contract {
+    float: right;
+    padding: 0 15px 15px;
+    cursor: pointer;
+}
+
+#score .rank-section a{
+    display: block;
+}
+
+
+/* Interface */
+
+#header,
+#footer {
+    z-index: 1;
+    display: none;
+    width: 100%;
+    padding: 20px 0;
+}
+
+#header {
+    font-size: .8em;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#footer {
+    position: relative;
+    bottom: 0;
+}
+
+#response {
+    position: absolute;
+    z-index: 3;
+    bottom: 0;
+    display: none;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    color: white;
+    background: black;
+}
+
+#response h3 {
+    font-family: 'Amatic SC';
+    font-size: 2.5em;
+    margin: 30px 0 15px;
+}
+
+#response p {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px 25px;
+    text-align: left;
+}
+
+#title,
+#pageNum {
+    position: absolute;
+    top: 0;
+    margin: 10px 15px;
+}
+
+#title {
+    line-height: 1.1em;
+    top: 4px;
+    left: 0;
+    max-width: 200px;
+    text-align: left;
+}
+
+#pageNum {
+    right: 35px;
+    text-align: right;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    color: black;
+    border: 2px solid white;
+    border-radius: 5px;
+    background: #eee;
+    /*box-shadow: 0 1px 8px black;*/
+}
+
+.button:hover {
+    cursor: pointer !important;
+    color: black;
+    background: white;
+}
+
+#submitBt,
+#nextBt {
+    right: 7px;
+    bottom: 7px;
+}
+
+#submitBt,
+#reviewBt,
+#redoBt {
+    display: none;
+}
+
+#nextQBt {
+    display: block;
+}
+
+#reviewBt {
+    bottom: 7px;
+    left: 35%;
+    width: 200px;
+}
+
+#redoBt {
+    position: relative;
+    bottom: 7px;
+    left: 7px;
+}
+
+.choice {
+    display: block;
+    margin: 10px 0;
+    text-align: left;
+    background: white;
+}
+
+.choice:hover {
+    cursor: pointer;
+    background: #feffc4;
+}
+
+.choice.selected {
+    /*background: #5ecefe;*/
+    background: #feffc4;
+}
+
+.choice.selected:hover {
+    /*background-color: yellow;*/
+}
+
+.choice:active,
+.choice.selected:active {
+    background: yellow;
+}
+
+.locked:hover {
+    cursor: default;
+    background: #bbb;
+}
+
+.choice.selected.locked {
+    background: #bbb;
+}
+
+.choice.selected.locked:hover {
+    background: #bbb;
+}
+
+.choice .fa-check {
+    color: olivedrab;
+}
+
+.choice .fa-close {
+    color: firebrick;
+}
+
+#noClick {
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    display: none;
+    width: 700px;
+    height: 525px;
+}
+
+#fullscreenBt {
+    position: absolute;
+    z-index: 20;
+    top: 0;
+    right: 0;
+    padding: 10px 13px;
+    color: white;
+    border: none;
+    background: none;
+}
+
+@media screen and (min-width: 350px) {
+    /* for screens wider than 350px */
+}
+
+@media screen and (min-width: 800px) {
+    /* for screens wider than 800px */
+    h1 {
+        font-size: 4em;
+    }
+    #canvas {
+        width: 800px;
+        height: 450px;
+    }
+    #header #title {
+        max-width: 500px;
+    }
+    .page{
+        min-width: 740px;
+    }
+}
+
+@media print {
+    /* for printing */
+}

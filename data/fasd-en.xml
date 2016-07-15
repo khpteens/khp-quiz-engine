@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>How much do you know about FASD?</title>
+	<description><![CDATA[Click next to begin the quiz.]]></description>
+	<quizType>2</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>fasd-bg-fr.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>How many newborn babies are affected by FASD?</text>
+			<a value="1">1 in 100</a>
+			<a value="0">1 in 500</a>
+			<a value="0">1 in 1,000</a>
+			<a value="0">1 in 10,000</a>			
+			<response>Nearly 1 out of every 100 babies born is affected by alcohol.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>True or false: Drinking during pregnancy is the only thing that can cause FASD.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response>Drinking alcohol during pregnancy is the only cause of FASD. Avoiding alcohol during pregnancy is the only way to prevent it.</response>
+		</q>		
+		<q><!-- 3 -->
+			<text>Which of the following problems are associated with FASD?</text>
+			<a value="0">Small size</a>
+			<a value="0">Distinctive facial features (for example, wide-set eyes)</a>
+			<a value="0">Problems with behaviour</a>
+			<a value="0">Short attention span</a>
+			<a value="0">Poor judgment (for example, trouble understanding cause and effect)</a>
+			<a value="0">An impaired memory</a>
+			<a value="0">Cognitive problems (for example, taking longer than usual to understand something)</a>
+			<a value="0">Sensory processing difficulties (for example, having trouble figuring out where a sound is coming from)</a>
+			<a value="1">All of the above</a>
+			<response>All of the above are problems that are associated with FASD.</response>
+		</q>
+		<q><!-- 4 -->
+			<text>Which of the following is an example of binge drinking?</text>
+			<a value="0">A man having 5 or more drinks in a row</a>
+			<a value="0">A woman having 4 or more drinks in a row</a>
+			<a value="0">Getting drunk</a>
+			<a value="1">All of the above</a>
+			<response>All of the above are examples of binge drinking.</response>
+		</q>
+		<q><!-- 5 -->
+			<text>True or false: Women in high school and college are not at high risk for having babies with FASD.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response>Women in high school and college are at a high risk for having babies with FASD because they have relatively high rates of binge drinking and unplanned pregnancies.</response>
+		</q>
+		<q><!-- 6 -->
+			<text>Which of the following drinks has the most alcohol?</text>
+			<a value="0">A 5-ounce glass of wine</a>
+			<a value="0">A shot of rum, vodka or tequila</a>
+			<a value="0">A 12 oz can of regular beer</a>
+			<a value="1">They all have the same amount</a>
+			<response>They all have the same amount of alcohol.</response>
+		</q>
+		<q><!-- 7 -->
+			<text>True or false: FASD is very rare.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response>FASD is common; in fact, it is the leading cause of developmental disabilities in Canada.</response>
+		</q>
+		<q><!-- 8 -->
+			<text>True or false: One or two drinks per week during pregnancy can’t harm the baby.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response>There is no safe amount of alcohol a woman can drink during pregnancy.</response>
+		</q>					
+	</questions>	
+	<scores><![CDATA[<h2>Your score</h2>
+		<hr/>
+		<h3>How did you do?</h3>
+		<p>Don’t worry if you didn’t get all of the questions right.</p>
+		<p><a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Emotional-Health/FASD.aspx" target="_top">Keep reading to learn more about FASD.</a></p>
+]]></scores>
+</data>

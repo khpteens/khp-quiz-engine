@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Are you a good friend?</title>
+	<description>Often, the key to having good friends is being one yourself. Keeping one of your friendships in mind, answer the following questions to find out how good of a friend you are.</description>
+	<quizType>3</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>friendship-bg.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage>goodFriend-splash.jpg</titleBackgroundImage>
+	<questions>
+		<q>
+			<text>I reach out to my friend (phone, text, email, in-person).</text>
+			<a value="1">Not at all</a>
+			<a value="2">Sometimes</a>
+			<a value="3">Often</a>
+			<response>Being a friend means being there for them - not making it all about you. Reaching out with a text, calling to check in, or making plans to hang out are different ways of showing your friend that they are a priority to you.</response>
+		</q>
+		<q>
+			<text>I do things to let my friend know that I care about them, like remember their birthday, tell them things I know they’ll find funny, or compliment them.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Sometimes</a>
+			<a value="3">Often</a>
+			<response>Friends should care about each other. Friends that know you care about them trust that you’re thinking about them, which is important in healthy friendships.</response>
+		</q>		
+		<q>
+			<text>I listen to my friend when they need to talk about something.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response>Good listening means not interrupting, fidgeting with your cell phone, or looking at that cute guy/girl walking by when someone is telling you something. Listening is important because it helps your friend feel understood.</response>
+		</q>
+		<q>
+			<text>I don’t judge my friend. I accept them for who they are.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response>Accepting your friends for who they are means not trying to change them. When your friend understands that you like them just as they are, they will feel comfortable around you.</response>
+		</q>
+		<q>
+			<text>I do fun things with my friend.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response>When you have fun with your friend on a regular basis, both of you will look forward to the next time you’ll hang out.</response>
+		</q>
+		<q>
+			<text>I am okay with my friend having other friends.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response>It’s important that you and your friend are okay about having other friends. This shows that you’re secure in your friendship and that you don’t rely on just one friend to meet all of your friendship needs.</response>
+		</q>
+		<q>
+			<text>I keep my friend’s secrets.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response>Keeping your friend’s secrets helps your friend know they can trust you. The exception: when your friend is keeping a secret that endangers their safety. In these cases, you may need to tell an adult you trust to help keep your friend safe.</response>
+		</q>
+		<q>
+			<text>I talk to my friend about important things that are going on in my life.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response>You don’t need to tell your friend everything about your life, but letting your friend know what’s going on with you helps them to know and understand you better. It also helps them feel comfortable sharing things with you about their own life.</response>
+		</q>
+		<q>
+			<text>I don’t just talk about myself with my friend.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response>If you talk about yourself all the time, your friend will get bored pretty quickly. Show your friend that you’re not all about you by asking what’s going on with them from time to time.</response>
+		</q>
+		<q>
+			<text>If my friend and I have a disagreement, I’m willing to hear their side of the story.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response>Most friends have at least small arguments from time to time. It’s okay to disagree, but it’s important to hear your friend’s perspective. This helps your friend to feel like you care about them. Hopefully, they also try to see things from your point of view.</response>
+		</q>
+		<q>
+			<text>I am able to compromise with my friend.</text>  
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response>Being able to compromise means sometimes doing things you don’t want to do. Hopefully, your friend is able to compromise with you, too.</response>
+		</q>
+		<q>
+			<text>I respect my friend’s opinions.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response>Respecting your friend’s opinions, even when they’re not the same as yours, shows that you respect your friend as a person and like them for who they are.</response>
+		</q>		
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<h3>12-19 points = Less-Than-Perfect Pal</h3>
+		<p>Remember that the first step to keeping a friend is to be a friend. Even though having friends is important to you, not everyone may see it. Think about the qualities you look for in a good friend. These might include being caring, having fun, and good listening skills. Now think about what qualities you bring to a friendship. Are you also caring, fun, and a great listener? </p>
+		<h3>20-27 points = Not-Bad Buddy</h3>
+		<p>You understand many of the qualities that make up a good friend. Even though you are usually a good friend to others, there might be times when you hold back and aren’t as good of a friend as you could be. Think about some ways that you could improve your friendship. Could you reach out a little more?</p>
+		<h3>28-36 points = Fabulous Friend</h3>
+		<p>You know that it’s important to be a friend and you show this to others through your words and actions. You care about your friends, listen to them and accept them for who they are. Hopefully, your friends appreciate all you have to offer and are good friends to you, too.</p>
+		<p>Of the areas you answered “not at all” or “somewhat”, which ones can you choose to work on?  Keep checking in once in a while to see if these areas are still improving, or if there might be some new ones to work on.</p> 
+		<p><a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Friendship/Strong-friendships.aspx" target="_top">Click here for some tips on healthy friendships</a></p>
+]]></scores>
+</data>

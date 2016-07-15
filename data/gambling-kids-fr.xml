@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Jeu-questionnaire sur les jeux de hasard</title>
+	<description><![CDATA[Cliquez sur Suiv pour commencer le quiz.]]></description>
+	<quizType>2</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>gambling-bg-kids.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Quels sont les jeux de hasard les plus populaires chez les jeunes de 7 à 13 ans ?</text>
+			<a value="0">Jouer aux cartes, aux billes ou aux dés en pariant de l’argent</a>
+			<a value="0">Tirer à pile ou face en pariant de l’argent</a>		
+			<a value="0">Acheter des billets de loterie ou des billets à gratter</a>		
+			<a value="1">Toutes ces réponses</a>			
+			<response>Même les jeunes enfants risquent d’avoir joué à plusieurs jeux de hasard. C’est généralement un parent ou une personne plus vieille qui les a initiés.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>Les filles jouent autant que les garçons aux jeux de hasard.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>
+			<response>En général, les garçons jouent plus que les filles aux jeux de hasard.</response>
+		</q>	
+		<q><!-- 3 -->
+			<text>De nombreux ados qui ont un problème de jeu ont commencé à jouer quand ils n’avaient que 10 ans.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response>Les personnes qui ont un problème de jeu ont habituellement commencé à jouer entre 10 et 19 ans.</response>
+		</q>			
+		<q><!-- 4 -->
+			<text>Il est possible que les jeunes jouent à des jeux de hasard :</text>
+			<a value="0">parce que leurs amis ou les membres de leur famille y jouent</a>
+			<a value="0">parce qu’ils s’ennuient ou se sentent seuls</a>
+			<a value="0">parce qu’ils pensent pouvoir gagner beaucoup d’argent facilement, même si ce n’est pas vrai</a>
+			<a value="1">Toutes ces réponses</a>
+			<response>Les gens commencent à jouer pour toutes sortes de raisons, y compris parce qu’ils s’ennuient, parce que les autres le font, parce qu’ils se sentent seuls et parce qu’ils veulent se faire de l’argent.</response>
+		</q>		
+		<q><!-- 5 -->
+			<text>Un porte-bonheur peut te porter chance.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>
+			<response>Les porte-bonheur n’ont aucun effet sur les jeux de hasard. Les résultats des jeux de hasard n’ont rien à voir avec la chance.</response>
+		</q>
+		<q><!-- 6 -->
+			<text>Si tu tires une pièce à pile ou face et qu’elle tombe sur face 4 fois, elle tombera toujours sur pile la 5e fois.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>
+			<response>Lorsque tu tires une pièce à pile ou face, elle aura toujours 1 chance sur 2 de tomber sur face, peu importe sur quoi elle est tombée auparavant.</response>
+		</q>					
+		<q><!-- 7 -->
+			<text>La probabilité de gagner une médaille olympique est plus grande que de gagner au 6/49.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response>La probabilité de gagner une médaille olympique est de 1 sur 662 000. La probabilité de gagner le gros lot au 6/49 est de 1 sur 14 millions !</response>
+		</q>
+		<q><!-- 8 -->
+			<text>À la loterie, la combinaison 5, 17, 23, 35, 39 et 47 a plus de probabilité d’être gagnante que la combinaison 1, 2, 3, 4, 5, 6.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux : la probabilité est la même pour les deux combinaisons </a>
+			<a value="0">Ça dépend du nombre de personnes qui ont acheté des billets</a>
+			<a value="0">Ça dépend des numéros qui ont été tirés la fois précédente</a>
+			<response>Personne ne peut prédire quels numéros seront tirés. Toutes les combinaisons ont la même probabilité d’être gagnantes.</response>
+		</q>
+		<q><!-- 9 -->
+			<text>Les personnes qui ont un problème de jeu ont souvent besoin d’aide, comme une thérapie, pour s’arrêter.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response>Les personnes qui sont un problème de jeu ont souvent besoin de l’aide de professionnels pour reprendre le contrôle de leurs habitudes de jeu.</response>
+		</q>
+		<q><!-- 10 -->
+			<text>La réussite d’un joueur de cartes dépend surtout :</text>
+			<a value="0">de sa chance</a>
+			<a value="0">de son degré d’entraînement</a>
+			<a value="0">de sa connaissance des chiffres</a>
+			<a value="1">du hasard</a>
+			<response>Comme leur nom l’indique, les jeux de hasard – y compris les jeux de cartes comme le poker – sont surtout une question de hasard. Les porte-bonheur et l’entraînement ne peuvent pas aider un joueur à gagner.</response>
+		</q>
+	</questions>	
+	<scores><![CDATA[<h2>Ton score</h2>
+		<hr>
+		<h3>As-tu bien réussi ?</h3>
+		<p>Si certaines réponses t’ont surpris, tu n’es pas le seul. Il y a beaucoup de mythes au sujet des jeux de hasard. C’est pour cette raison qu’il est important de te renseigner sur ces jeux avant de commencer à y jouer.</p>	
+		<br>	
+		<p><a href="http://www.jeunessejecoute.ca/Kids/InfoBooth/Money/Gambling.aspx" target="_top">Une bonne façon de commencer serait de lire notre section sur ce sujet.</a></p>]]>		
+	</scores>
+</data>

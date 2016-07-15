@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Est-ce que je joue trop ?</title>
+	<description><![CDATA[Réponds à ce jeu-questionnaire si tu présentes<br/>certains signes d’un problème de jeu.]]></description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>gambling-teens.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Passes-tu la plupart de ton temps, sinon tout ton temps, à penser au jeu ?</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>			
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>Passes-tu plus de temps à jouer qu’à faire des activités avec tes amis ?</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response></response>
+		</q>	
+		<q><!-- 3 -->
+			<text>As-tu déjà joué plus que ce que tu avais prévu ?</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response></response>
+		</q>			
+		<q><!-- 4 -->
+			<text>Est-ce que tes habitudes de jeu te causent des problèmes avec ta famille ou tes amis ?</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response></response>
+		</q>		
+		<q><!-- 5 -->
+			<text>As-tu déjà pensé mentir, voler ou tricher pour pouvoir jouer ?</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>As-tu déjà emprunté de l’argent à quelqu’un pour pouvoir jouer sans ensuite le rembourser ?</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response></response>
+		</q>					
+		<q><!-- 7 -->
+			<text>As-tu déjà pensé à vendre des choses qui t’appartenaient ou qui appartenaient à quelqu’un d’autre dans le but d’avoir de l’argent pour jouer ?</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response></response>
+		</q>
+		<q><!-- 8 -->
+			<text>Depuis que tu as commencé à jouer, t’intéresses-tu moins à tes passe-temps ou aux activités que tu aimais auparavant ?</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response></response>
+		</q>
+		<q><!-- 9 -->
+			<text>Est-ce que tes notes sont moins bonnes depuis que tu as commencé à jouer ?</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response></response>
+		</q>
+		<q><!-- 10 -->
+			<text>As-tu déjà senti que tu aimerais arrêter de jouer sans avoir l’impression d’en être capable ?</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response></response>
+		</q>
+		<q><!-- 11 -->
+			<text>Est-ce que quelqu’un t’a déjà dit que tu avais peut-être un problème de jeu, peu importe que tu penses que ce soit vrai ou pas ?</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response></response>
+		</q>
+	</questions>	
+	<scores><![CDATA[<h2>Ton score</h2>
+		<hr>
+		<h3>Résultats</h3>
+		<p>Si tu as répondu « oui » à l’une de ces questions, tu es peut-être en train de perdre le contrôle de tes habitudes de jeu.</p>	
+		<hr>	
+		<p><a href="http://www.jeunessejecoute.ca/Teens/InfoBooth/Emotional-Health/Gambling/If-you-think-you-have-a-problem.aspx" target="_top">Clique ici pour découvrir ce que tu peux faire.</a></p>]]>		
+	</scores>
+</data>

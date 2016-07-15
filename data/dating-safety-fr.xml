@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Teste tes connaissances en matière de rendez-vous sécuritaires.</title>
+	<description><![CDATA[Lors d'un rendez-vous sécuritaire, toi et la personne avec qui tu es devez vous sentir à l'aise, pas préoccupés ni effrayés.  Avant de sortir avec quelqu'un, sois sûr(e) d'être en sécurité en prenant quelques précautions.]]></description>
+	<quizType>2</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>datingSafety-bg.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage>datingSafety-splash-fr.jpg</titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Quel(s) contact(s) devrais-je mettre dans mon téléphone avant d'aller à un rendez-vous amoureux?</text>
+			<a value="0">Un ami ou un membre de la famille qui sait où je m'en vais</a>
+			<a value="0">310-TAXI, un numéro me permettant d'avoir un taxi n'importe où au Canada</a>
+			<a value="0">Une ligne d'aide de médium au cas où je suis confus(e)</a>
+			<a value="1">A et B</a>
+			<response><![CDATA[Si tu commences à sentir que tu n'es pas en sécurité, tu devrais être capable d'avoir de l'aide rapidement.  Tu peux aussi appeler gratuitement Jeunesse J'écoute au 1-800-668-6868, nous sommes toujours là pour aider.  Tu peux nous rejoindre rapidement via <a href="http://jeunessejecoute.ca/Teens/PhoneUs/AlwaysThere.aspx?lang=fr-ca" target="_blank">notre application mobile, Toujours là</a>, qui est gratuite et disponible sur iPhone, Android et BlackBerry.]]></response>
+		</q>
+		<q><!-- 2 -->
+			<text>"Oh non ! Je vais être en retard pour mon rendez-vous. Avant de partir, je devrais…"</text>
+			<a value="0">Charger mon téléphone, si j'en ai un</a>
+			<a value="0">Me brosser les dents</a>
+			<a value="0">Dire à quelqu'un où je vais</a>
+			<a value="1">A et C</a>
+			<response>Si tu ne te sens pas à l'aise durant ton rendez-vous et que tu as besoin que quelqu'un vienne te chercher, tu devrais toujours avoir ton cellulaire chargé à portée de main ou de la monnaie pour faire un appel.</response>
+		</q>		
+		<q><!-- 3 -->
+			<text>"Est-ce que je devrais rencontrer une personne lors d'un rendez-vous arrangé?"</text>
+			<a value="0">Pourquoi pas?</a>
+			<a value="0">Seulement si tu la rencontres dans un lieu publique</a>
+			<a value="0">Seulement si tu avertis quelqu'un de l'endroit où tu t'en vas et de l'heure à laquelle tu devrais revenir</a>
+			<a value="1">B et C</a>
+			<response>Il comporte des risques de rencontrer des étrangers.  Sois certain(e) que le rendez-vous arrangé est avec quelqu'un qui est connu d'un ami en commun.  Comme dans toutes les situations de rendez-vous amoureux, sois certain(e) que quelqu'un sache où tu es et avec qui.</response>
+		</q>
+		<q><!-- 4 -->
+			<text>"Où devrais-je l'amener lors du premier rendez-vous?"</text>
+			<a value="1">Au cinéma avec d'autres amis</a>
+			<a value="0">Chez lui/elle, seuls</a>
+			<a value="0">Dans un bar</a>
+			<a value="0">À l'extérieur de la ville</a>
+			<response>Rencontrer quelqu'un dans un endroit public ou avec un groupe de personnes que tu connais et en qui tu as confiance te fera sentir plus à l'aise lors du premier ou des premiers rendez-vous.</response>
+		</q>
+		<q><!-- 5 -->
+			<text>"Avant de me rendre à mon rendez-vous, je devrais savoir…"</text>
+			<a value="1">Où je m'en vais et comment je vais revenir</a>
+			<a value="0">Quoi dire si ça devient bizarre</a>
+			<a value="0">Son mot de passe Facebook</a>
+			<a value="0">A et B</a>
+			<response>Si tu as besoin de te sortir rapidement d'une situation non sécuritaire, sois certain(e) de savoir où tu vas et quel pourrait être un moyen rapide et sécuritaire de revenir à la maison.</response>
+		</q>
+		<q><!-- 6 -->
+			<text>Pour me garder en sécurité à un rendez-vous, je devrais apporter les choses suivantes :</text>
+			<a value="0">De l'argent (incluant le prix du taxi)</a>
+			<a value="0">Des vêtements</a>
+			<a value="0">Des moyens de se protéger (condoms, digues dentaires)</a>
+			<a value="0">Un téléphone</a>
+			<a value="0">Des menthes pour l'haleine</a>
+			<a value="1">A, C et D </a>
+			<response>Sois certain(e) d'avoir ton téléphone avec toi, l'argent pour le taxi ainsi que des moyens de contraception si tu prévois avoir des activités sexuelles.</response>
+		</q>
+		<q><!-- 7 -->
+			<text>Si je bois ce soir, je devrais…</text>
+			<a value="0">Être sûr(e) que mon verre n'est pas laissé sans surveillance</a>
+			<a value="0">Faire attention à ne pas être saoul(e)</a>
+			<a value="0">Avoir un bon moment</a>
+			<a value="1">Toutes les réponses</a>
+			<response>Toutes les réponses a, b et c. L'alcool et les autres substances altérant l'humeur peuvent affecter ta façon de penser et troubler ton jugement, alors cela devient plus difficile de rester en sécurité lors d'un rendez-vous.  Sois certain(e) de prendre des précautions contre l'alcool au volant et surveille ton verre pour être sûr(e) que personne n'y met rien, comme des drogues.  </response>
+		</q>
+		<q><!-- 8 -->
+			<text>Toute la soirée, je vais:</text>
+			<a value="0">Suivre mon instinct</a>
+			<a value="0">Dire ''non'' si je le veux</a>
+			<a value="0">Mettre tous les détails sur Twitter</a>
+			<a value="1">A et B</a>
+			<response>Au final, ce que tu fais ou non lors du rendez-vous dépend de toi.  Écoute ton instinct et dis ''non'' si tu ne te sens pas à l'aise.    </response>
+		</q>			
+	</questions>	
+	<scores><![CDATA[<h2>Ton score</h2>
+		<h3>1-3 points = Pas tellement sécuritaire </h3>
+		<p>Si tu as eu un score peu élevé à ce test, tu n'es pas seul(e).  Il peut être difficile de savoir comment agir lors d'un rendez-vous amoureux et comment le faire de façon sécuritaire.  Avant de te rendre à un rendez-vous, lis-en davantage sur les relations amoureuses dans les autres sections ou contacte un intervenant de Jeunesse J'écoute pour avoir quelques conseils qui pourraient être aidants pour toi.  Ta sécurité est importante!  </p>
+		<h3>4-6 points = À demi-sécuritaire</h3>
+		<p>Si tu ne prends pas beaucoup de précautions lors des rendez-vous, tu n'es pas seul(e).  Il peut être difficile de toujours s'assurer que c'est sécuritaire, mais souviens-toi que ta sécurité est importante.  Lis davantage nos conseils sur les relations amoureuses avant ton prochain rendez-vous.  Rappelle-toi que tu peux toujours téléphoner à un intervenant de Jeunesse J'écoute pour être certain(e) que tu restes en sécurité.</p>
+		<h3>7-8 points = La star de la sécurité</h3>
+		<p>Bravo!  Tu ne fais pas qu'en savoir beaucoup sur la sécurité lors des rendez-vous amoureux, mais tu mets tes connaissances en pratique!  Avant d'aller à un rendez-vous, tu t'arranges toujours pour être certain(e) que quelqu'un sait où tu es et tu prends des précautions (comme traîner de l'argent pour le taxi, au cas où le rendez-vous doit finir rapidement).  Est-ce que tes amis savent à quel point tu es expert(e) en matière de sécurité?  Que dirais-tu de leur transmettre tes connaissances afin qu'ils soient en sécurité eux aussi?</p>
+]]></scores>
+</data>

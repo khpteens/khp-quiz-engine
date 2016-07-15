@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Is this abuse? </title>
+	<description><![CDATA[Read the following scenarios to test your knowledge of abuse and&nbsp;neglect.]]></description>
+	<quizType>2</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>familyabuse-teens.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Shirley is 4 years old. One day she pushes her sister into a wall. Shirley’s mom decides to spank her lightly on the bottom as a way of showing Shirley that it’s wrong to hurt her sister. Is the spanking abuse?</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>					
+			<response>In Canada, parents are allowed to spank their children if they are between the ages of 2–12 and the spanking is meant to discipline rather than punish. Shirley’s mom did not lose her temper; she was trying to teach Shirley that it’s not okay to push her sister.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>Hong is 12 years old. When she is helping her dad load groceries into the car, she drops one of the bags on the ground by mistake. Hong’s dad starts yelling at her and calling her names in the parking lot. Is this abuse?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>	
+			<response>Being yelled at and called names, especially in public, is humiliating. It’s also a form of psychological abuse.</response>
+		</q>		
+		<q><!-- 3 -->
+			<text>Remi is 11 years old and decides to skip school for a few days. His parents don’t know that Remi is not in class. Are Remi’s parents neglecting him?</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>	
+			<response>While it is neglect to stand in the way of your child’s education, Remi’s parents think that he’s at school, so they are not guilty of neglecting him.</response>
+		</q>
+		<q><!-- 4 -->
+			<text>Anh is 13 years old. Her parents think she’s been playing too many videogames, so they decide to take away her game system for a week. They have a huge fight and she’s so mad that she doesn’t come home for dinner the next day, but goes to the mall with her friends instead. When she gets home late that night, her parents won’t let her back in the house. Is this neglect?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>	
+			<response>According to Canadian law, parents have to supply basic shelter for their kids up to age 16. Even though Anh didn’t come home when she was supposed to, it’s still neglect if they don’t let her back into the house.</response>
+		</q>
+		<q><!-- 5 -->
+			<text>Mohammed is 15 years old. Mohammed’s stepdad sometimes hits his 12-year old sister in front of him. Is this abuse?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>	
+			<response>This is abuse on a couple of different levels. It’s physical abuse for Mohammed’s stepdad to hit his sister. It’s also psychological abuse for Mohammed to see his sister being abused.</response>
+		</q>						
+	</questions>	
+	<scores><![CDATA[<h2>Your score</h2>
+		<hr/>
+		<h3>How did you do?</h3>
+		<p>Don’t worry if you didn’t get all of the questions right. Thinking about abuse and the different ways that it can surface in families is an important step in making it stop. <a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Violence-and-Abuse/Family-abuse/What-can-I-do-about-family-abuse.aspx" target="_top">Keep reading for information on what you can do if there is abuse in your family.</a></p>
+]]></scores>
+</data>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Es-tu stressé par les examens ?</title>
+	<description><![CDATA[Pense à un examen récent, lis les énoncés suivants<br/>et choisis s’ils sont vrais ou faux dans ton cas.]]></description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>testStress-kids.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>C’est très important pour moi de bien réussir cet examen.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>Je crois qu’en faisant de mon mieux je peux bien réussir cet examen.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>
+			<response></response>
+		</q>
+		<q><!-- 3 -->
+			<text>S’il y a des questions que je ne comprends pas dans cet examen, je vais être capable de me débrouiller – je vais sauter la question et continuer ou faire de mon mieux pour trouver la réponse.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response></response>
+		</q>
+		<q><!-- 4 -->
+			<text>Mes résultats aux examens m’inquiètent ou me font peur.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response></response>
+		</q>
+		<q><!-- 5 -->
+			<text>J’ai l’impression que je dois avoir un résultat parfait à cet examen.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>
+			<response></response>
+		</q>		
+	</questions>	
+	<scores><![CDATA[<h2>Ton score</h2>
+		<hr>
+		<h3>Calme et détendu (4 ou 5 bonnes réponses)</h3>
+		<p>Excellent ! Non seulement tu as compris qu’en stressant trop, tu risquais de moins bien réussir, mais tu sais aussi comment te préparer pour ne pas être stressé une fois rendu dans la salle d’examen. As-tu pensé à partager tes trucs d’étude avec tes amis ? Ils seraient sûrement contents que tu les aides !</p>	
+
+		<h3>Un peu stressé (2 ou 3 bonnes réponses)</h3>
+		<p>Comme la plupart des jeunes, ça t’arrive d’être stressé par les examens. Malgré tout, tu sais quoi faire pour que le stress ne nuise pas à tes résultats. Avant d’ouvrir tes livres pour commencer à préparer ton prochain examen,</p>
+		<p><a href="http://www.kidshelpphone.ca/Kids/InfoBooth/School/Test-like-the-best.aspx" target="_top">va lire nos conseils pour bien étudier</a></p>
+		<p>Et essaie de t’offrir une bonne nuit de sommeil la veille de l’examen pour ne pas te mettre à stresser au moment de répondre aux questions.</p>	
+
+		<h3>Super stressé (0 ou 1 bonne réponse)</h3>
+		<p>Les examens et les devoirs te stressent ? Tu n’es pas le seul ! Aujourd’hui, les jeunes subissent beaucoup de pression pour bien réussir à l’école. Ça peut être difficile de faire de son mieux quand on s’inquiète sans arrêt à propos de ses notes. En fait, le stress peut te faire rater tes examens, surtout s’il te fait perdre le sommeil ou ta concentration.</p>
+		<p><a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Emotional-Health/Anxiety.aspx" target="_top">Jette un coup d’œil à notre section sur<br/>la panique et l’anxiété.</a></p>
+		<p>Est-ce que tu te reconnais dans l’un de ces symptômes ? Tu peux toujours appeler Jeunesse, J’écoute pour parler du stress et de l’école. Nous sommes là pour t’aider.</p>
+		]]>		
+	</scores>
+</data>

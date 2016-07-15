@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Dors-tu assez ?</title>
+	<description><![CDATA[Clique suiv pour commencer le jeu-questionnaire.]]></description>
+	<quizType>2</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>sleep-kids.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Je me sens bien quand je me réveille.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>		
+			<response>Se sentir bien quand on se réveille le matin, c’est un signe qu’on a assez dormi.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>Je me sens fatigué pendant la journée.</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response>Se sentir fatigué, c’est un signe qu’on a besoin de plus de sommeil. D’autres indices ? Bâiller souvent ou être grognon.</response>
+		</q>	
+		<q><!-- 3 -->
+			<text>Je me couche à peu près à la même heure tous les soirs.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>	
+			<response>Quand on se couche à la même heure tous les soirs, on a moins de difficulté à s’endormir et on dort mieux.</response>
+		</q>			
+		<q><!-- 4 -->
+			<text>Je dors dans un endroit tranquille, sombre et confortable.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>	
+			<response>Quand on dort dans une pièce tranquille, sombre et confortable, on a plus de chance d’avoir une bonne nuit de sommeil.</response>
+		</q>		
+		<q><!-- 5 -->
+			<text>Je fais souvent des cauchemars.</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response>Si tu fais des cauchemars, ce serait une bonne idée que tu en parles avec un adulte en qui tu as confiance, comme un parent ou un professeur. Pour t’aider à faire disparaître ces mauvais rêves, tu pourrais essayer de faire des activités calmes et relaxantes avant d’aller au lit, comme de prendre un bain chaud. Surtout, évite les histoires et les films d’horreur !</response>
+		</q>
+		<q><!-- 6 -->
+			<text>Je crois qu’avoir une bonne nuit de sommeil, c’est aussi important que de bien manger ou de faire de l’exercice.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>	
+			<response>L’esprit, c’est très puissant ! En général, les gens qui croient que le sommeil est important dorment mieux.</response>
+		</q>					
+		<q><!-- 7 -->
+			<text>J’ai toujours la même routine avant d’aller me coucher (par ex., brosser mes dents, mettre mon pyjama, lire un livre, etc.).</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>	
+			<response>Quand on suit une routine avant de se coucher, on dit à notre corps que c’est le temps de dormir.</response>
+		</q>
+		<q><!-- 8 -->
+			<text>Le week-end, je me lève deux ou trois heures plus tard que la semaine.</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response>Faire la grâce matinée le week-end, ça peut être un signe que notre corps a besoin de plus de sommeil. Essaie de te coucher une demi-heure plus tôt la semaine pour voir si ça t’aide à dormir moins longtemps le week-end.</response>
+		</q>
+		<q><!-- 9 -->
+			<text>J’ai de la difficulté à dormir et cela me met de mauvaise humeur</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response>Si tu es de mauvaise humeur parce que tu as de la difficulté à dormir, parles-en avec un médecin ou un autre adulte en qui tu as confiance. Ils pourront t’aider.</response>
+		</q>		
+	</questions>
+	<scores><![CDATA[<h2>Ton score</h2>
+		<hr>
+
+		<h3>De 0 à 3 = En manque de sommeil</h3>
+		<p>On dirait que tu ne dors pas assez. C’est peut-être parce que tu es très occupé ou stressé, ou parce qu’il se passe quelque chose de spécial dans ta vie. Mais si tu aimerais mieux dormir, nous t’invitons à lire les conseils qui suivent. Tu pourrais aussi en parler à tes parents pour qu’ils puissent t’aider.</p>
+
+		<h3>De 4 à 6 = Plus ou moins bon dormeur</h3>
+		<p>Tu sais ce qu’il faut faire pour avoir une bonne routine de sommeil, mais que dirais-tu de quelques heures de plus pour dormir ? Tu te sentiras beaucoup mieux si tu améliores tes habitudes de sommeil. Pour t’aider à y arriver, nous t’invitons à lire les conseils plus bas.</p>
+
+		<h3>De 7 à 9 = Wow, tu es un Super dormeur</h3>
+		<p>Félicitations ! Tu es un excellent dormeur. Si jamais tu as de la difficulté à bien dormir,  reviens ici pour avoir des conseils qui t’aideront à avoir une mieux dormir. Sinon, garde tes bonnes habitudes !</p>
+
+		<p><a href="http://www.jeunessejecoute.ca/Kids/InfoBooth/My-Body/Sleep/Sleeping-tips.aspx" target="_top">Tu te sentiras beaucoup mieux si tu améliores tes habitudes de sommeil.</a></p>]]>
+	</scores>
+</data>

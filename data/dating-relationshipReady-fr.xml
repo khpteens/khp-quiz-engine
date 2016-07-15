@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <title>Es-tu prêt(e) pour une relation amoureuse?</title>
+    <description>Es-tu prêt(e) pour une relation amoureuse? Fais ce test afin de le savoir.</description>
+    <quizType>1</quizType>
+    <!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+    <backgroundImage>datingRelationshipReady-bg.jpg</backgroundImage>
+    <backgroundColour>#024286</backgroundColour>
+    <titleBackgroundImage>datingRelationshipReady-splash-fr.jpg</titleBackgroundImage>
+    <questions>
+        <q>
+            <!-- 1 -->
+            <text>J'ai une bonne idée de qui je suis, de ce que j'aime, de ce que je n'aime pas, en quoi je suis bon(ne) et en quoi je crois.</text>
+            <a value="1">Oui</a>
+            <a value="0">Non</a>
+            <response>Avant de vouloir apprendre à connaître mieux quelqu'un d'autre, cela aide de se connaître soi-même.</response>
+        </q>
+        <q>
+            <!-- 2 -->
+            <text>La plupart du temps, j'aime qui je suis.</text>
+            <a value="1">Oui</a>
+            <a value="0">Non</a>
+            <response>Pour être dans une relation amoureuse saine avec une autre personne, il faut d'abord que tu t'aimes tel(le) que tu es.</response>
+        </q>
+        <q>
+            <!-- 3 -->
+            <text>J'ai l'impression que je sais ce que sont les relations amoureuses d'après ce que j'ai vu à la télévision.</text>
+            <a value="0">Oui</a>
+            <a value="1">Non</a>
+            <response>Les émissions de télévision sont amusantes, mais elles ne sont pas le meilleur moyen d'en apprendre sur les relations amoureuses. Tu auras une vision beaucoup plus réaliste si tu te fies aux couples dans la réalité.</response>
+        </q>
+        <q>
+            <!-- 4 -->
+            <text>Si j'étais dans une relation amoureuse, je serais plus heureux(se).</text>
+            <a value="0">Oui</a>
+            <a value="1">Non</a>
+            <response>Tu as entendu cette phrase un million de fois, mais c'est vrai: la seule personne qui peut vraiment te faire sentir bien par rapport à toi-même c'est toi. Si tu t'attends à ce qu'une autre personne te rende heureux(se), cela met beaucoup de pression sur celle-ci et ça ne t'aidera pas à avoir une relation amoureuse saine.</response>
+        </q>
+        <q>
+            <!-- 5 -->
+            <text>Mes parents sont d'accord à ce que je fasse des rencontres amoureuses.</text>
+            <a value="1">Oui</a>
+            <a value="0">Non</a>
+            <response>Si tes parents sont d'accord que tu fasses des rencontres amoureuses, cela rend les choses plus faciles. S'ils ne le sont pas, cela peut causer des problèmes. Aussi frustrant que cela puisse être, essaie de te souvenir que les règles de tes parents à ce sujet sont imposées dans le but de te garder en sécurité.</response>
+        </q>
+    </questions>
+    <scores>
+        <![CDATA[<h2>Ton score</h2>
+		<hr/>
+		<h3>Prêt(e) pour un rendez-vous amoureux?</h3>
+		<p>Peu importe ton pointage, seul(e) toi peux décider si et quand tu te sens prêt(e) à faire des rencontres amoureuses ou t'investir dans une relation. Néanmoins, il y a quelques petites questions de base que tu peux te poser avant de débuter : est-ce que tu sais qui tu es? Qu'attends-tu d'une personne en amour? Penser aux raisons qui te font vouloir/ne pas vouloir être en amour t'aidera à comprendre tes propres valeurs et t'aidera à éviter de t'investir dans une relation avec une personne pour les mauvaises raisons. Peu importe combien tu crois le vouloir, la décision de commencer à fréquenter ou t'engager dans une relation amoureuse se résume bien souvent à un sentiment. Alors, fais confiance à ton instinct et n'aie pas peur de dire « non ».</p>
+]]></scores>
+</data>

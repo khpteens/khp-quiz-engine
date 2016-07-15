@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Que sais-tu au sujet de l’ETCAF ?</title>
+	<description><![CDATA[Clique ici pour commencer le jeu-questionnaire.]]></description>
+	<quizType>2</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>fasd-bg-fr.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage>fasd-splash-fr.jpg</titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Combien de bébés naissent avec l’ETCAF (ensemble des troubles causés par l’alcoolisation fœtale) ?</text>
+			<a value="1">1 sur 100</a>
+			<a value="0">1 sur 500</a>
+			<a value="0">1 sur 1 000</a>
+			<a value="0">1 sur 10 000</a>			
+			<response>Près de 1 bébé sur 100 est atteint de l’ETCAF.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>Vrai ou faux ? La consommation d’alcool durant la grossesse est la seule chose qui peut causer l’ETCAF.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response>La consommation d’alcool pendant la grossesse est la seule cause de l’ETCAF. Éviter l’alcool pendant la grossesse est la seule façon de prévenir l’ETCAF.</response>
+		</q>		
+		<q><!-- 3 -->
+			<text>Lequel des problèmes suivants est associé à l’ETCAF ?</text>
+			<a value="0">Des problèmes de comportement</a>
+			<a value="0">Des troubles de jugement (p. ex., avoir de la difficulté à comprendre la cause et l’effet)</a>
+			<a value="0">Des troubles de la mémoire</a>
+			<a value="0">Des problèmes cognitifs (p. ex., prendre plus de temps que la normale à comprendre quelque chose)</a>
+			<a value="0">Un trouble du traitement de l’information sensorielle (p. ex., avoir de la difficulté à déterminer d’où vient un bruit)</a>
+			<a value="1">Toutes ces réponses</a>
+			<response>Toutes ces réponses. Il s’agit tous de problèmes associés à l’ETCAF.</response>
+		</q>
+		<q><!-- 4 -->
+			<text>Lequel des énoncés suivants est un exemple de consommation d’alcool excessive ?</text>
+			<a value="0">Un homme qui boit 5 verres ou plus d’affilée.</a>
+			<a value="0">Une femme qui boit 4 verres ou plus d’affilée.</a>
+			<a value="0">Une personne qui se saoule.</a>
+			<a value="1">Toutes ces réponses.</a>
+			<response>Tous les énoncés sont des exemples de consommation d’alcool excessive.</response>
+		</q>
+		<q><!-- 5 -->
+			<text>Vrai ou faux ? Les filles au secondaire et au postsecondaire ne sont pas très à risque d’avoir un bébé atteint d’ETCAF.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>
+			<response>Les filles au secondaire et au postsecondaire sont très à risque d’avoir un bébé atteint de l’ETCAF, parce qu’elles ont des taux relativement élevés de consommation d’alcool excessive et de grossesses non désirées.</response>
+		</q>
+		<q><!-- 6 -->
+			<text>Laquelle des consommations suivantes contient le plus d’alcool ?</text>
+			<a value="0">Un verre de vin de 140 ml (5 oz)</a>
+			<a value="0">Un verre de rhum, de vodka ou de tequila de 45 ml (1,5 oz)</a>
+			<a value="0">Une canette de bière ordinaire de 340 ml (12 oz)</a>
+			<a value="1">Ces consommations contiennent toutes la même quantité d’alcool.</a>
+			<response>Ces consommations contiennent la même quantité d’alcool.</response>
+		</q>
+		<q><!-- 7 -->
+			<text>Vrai ou faux ? L’ETCAF est un trouble rare.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>
+			<response>L’ETCAF est un trouble courant; en fait, il est l’une des principales causes de déficience intellectuelle au Canada.</response>
+		</q>
+		<q><!-- 8 -->
+			<text>Vrai ou faux ? Une ou deux consommations par semaine durant la grossesse ne sont pas dangereuses pour le bébé.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>
+			<response>Il n’y a aucune quantité d’alcool qu’une femme peut consommer sans danger pendant la grossesse.</response>
+		</q>					
+	</questions>	
+	<scores><![CDATA[<h2>Ton score</h2>
+		<hr/>
+		<h3>Quels sont tes résultats?</h3>
+		<p>Ne t’en fais pas si tu n’as pas eu toutes les bonnes réponses.</p>
+		<p><a href="http://jeunessejecoute.ca/Teens/InfoBooth/Emotional-Health/FASD.aspx?lang=fr-ca" target="_top">Continue à lire pour en apprendre davantage sur l’ETCAF.</a></p>
+]]></scores>
+</data>

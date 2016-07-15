@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Are you getting enough sleep?</title>
+	<description><![CDATA[Click next to begin the quiz.]]></description>
+	<quizType>2</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>sleep-teens.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>I wake up feeling refreshed. </text>
+			<a value="1">True</a>
+			<a value="0">False</a>		
+			<response>Feeling good when you wake up in the morning is a sign that you are have gotten enough rest.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>I often feel tired during the day.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>	
+			<response>Feeling tired is a sign that you need to sleep more. Signs of fatigue include yawning, drooping eyelids, restlessness, irritability, and falling asleep during the day.</response>
+		</q>	
+		<q><!-- 3 -->
+			<text>I go to bed at around the same time every night.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>	
+			<response>Going to bed at the same time every night helps your body to get into a regular sleep schedule, which means you’ll have less trouble falling asleep and will sleep better through the night.</response>
+		</q>			
+		<q><!-- 4 -->
+			<text>I sleep in a place that is quiet, dark and comfortable.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>	
+			<response>A quiet, dark, comfortable sleep environment helps you fall asleep more easily, and stay asleep throughout the night.</response>
+		</q>		
+		<q><!-- 5 -->
+			<text>I often have nightmares.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>	
+			<response>Nightmares disrupt your sleep. While you can’t control your dreams, you can control your activities before bedtime, which have an impact on what you dream about. Try not to watch horror movies or play violent video games. Also, if there’s something going on in your life that’s giving you bad dreams, it’s a good idea to talk to someone.</response>
+		</q>
+		<q><!-- 6 -->
+			<text>I think that getting a good night’s sleep is just as important as healthy eating and exercise.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>	
+			<response>People who know sleep is important tend to have better sleep habits, which improves their chances of sleeping well.</response>
+		</q>					
+		<q><!-- 7 -->
+			<text>I have a routine that I follow every night before I go to bed (e.g., brush my teeth, put on my pyjamas, read a book, etc.)</text>
+			<a value="1">True</a>
+			<a value="0">False</a>	
+			<response>Going through a bedtime routine cues your body that it’s time to sleep.</response>
+		</q>
+		<q><!-- 8 -->
+			<text>I sleep in more than 2 to 3 hours later on the weekends than I do on weekdays.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>	
+			<response>Sleeping an extra few hours on the weekends can be a sign that your body is sleep-deprived. Try to sleep an extra 30 minutes each night during the week.</response>
+		</q>
+		<q><!-- 9 -->
+			<text>I’ve noticed a change in my sleeping patterns—either sleeping less often or more often than I used to.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>	
+			<response>Changes in your sleeping patterns can be a sign that something else is going on. Are you stressed or worried about something? For some people, changes to sleep patterns can be a sign of other issues, such as depression or anxiety. If you think this might be you, try to speak to your doctor or someone else you trust.</response>
+		</q>
+		<q><!-- 10 -->
+			<text>Sleeping problems are making other parts of my life more difficult.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>	
+			<response>Disruptions to your sleep schedule can be stressful. It’s harder to concentrate at school when you’re tired, and it’s also harder to keep up with your other obligations, such as sports, clubs, and even friendships. Sleeping problems are treatable, so it’s a good idea to visit a doctor if you need help sleeping.</response>
+		</q>		
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr>
+
+		<h3>0 to 3 = Starved for sleep</h3>
+		<p>Looks like you’re not getting enough sleep. It could be that you’re really busy, stressed, or that something’s going on in your life. It’s really important that you try to make sleep a priority, because sleep deprivation can take a toll on your health. Read on for tips on getting a good night’s rest. You might also want to visit a doctor for help.</p>	
+
+		<h3>4 to 7 = So-so sleeper</h3>
+		<p>You have developed some healthy sleeping habits, but you still might need more sleep. Improving your sleep habits will help you feel better and get the most out of your life.</p>
+
+		<h3>8 to 10 = Star sleeper</h3>
+		<p>Congratulations! You understand that sleep is important and you are making it a priority in your life. If your sleeping patterns change, check these pages for tips on how to improve your habits. Otherwise, keep up the good work.</p>	
+
+		<br>	
+		<p><a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Physical-Health/Sleep/Getting-a-good-sleep.aspx" target="_top">Read on for sleep tips that might work for you.</a></p>]]>		
+	</scores>
+</data>

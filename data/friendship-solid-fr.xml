@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Est-ce que mon amitié est solide?</title>
+	<description><![CDATA[Pense à ton amitié comme si c'était un bâtiment – pour que le bâtiment se tienne longtemps, il doit être construit sur une base ferme. Mais lorsqu'il s'agit d'amitiés, surtout celles que tu as depuis un bon moment déjà, il peut être difficile de savoir à quel point cette base est solide. Fais ce test en réfléchissant à une relation d'amitié actuelle et découvre si elle est faite pour durer.]]></description>
+	<quizType>3</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage></backgroundImage>
+	<backgroundColour></backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Mon ami(e) respecte mes décisions.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>Mon ami(e) pense que c'est correct que l'on soit en désaccord de temps en temps.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>		
+		<q><!-- 3 -->
+			<text>Mon ami(e) ne se sent pas blessé(e) lorsque je fais des plans avec d'autres amis ou que j'ai d'autres choses à faire.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 4 -->
+			<text>Mon ami(e) s'intéresse à mes opinions.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 5 -->
+			<text>Mon ami(e) raconte des choses sur moi à d'autres personnes.</text>
+			<a value="3">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="1">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>Lorsque mon ami(e) et moi avons un problème, nous essayons de trouver une solution qui nous convient à tous les deux.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 7 -->
+			<text>Lorsque mon ami(e) et moi avons un problème, nous nous traitons de noms, nous nous insultons sur Internet et nous attaquons l'un l'autre.</text>
+			<a value="3">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="1">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 8 -->
+			<text>Je peux être moi-même avec mon ami(e).</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 9 -->
+			<text>Mon ami(e) et moi nous disputons beaucoup.</text>
+			<a value="3">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="1">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 10 -->
+			<text>Je me sens bien quand je suis avec mon ami(e).</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 11 -->
+			<text>Mon ami(e) m'aide lorsque j'ai de la difficulté avec quelque chose.</text>  
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 12 -->
+			<text>Mon ami(e) est content(e) pour moi quand quelque chose de bien m'arrive.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>		
+		<q><!-- 13 -->
+			<text>Mon ami(e) prend ma défense.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 14 -->
+			<text>Si j'ai un problème, je peux en parler avec mon ami(e).</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 15 -->
+			<text>Mon ami(e) et moi avons du plaisir ensemble.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+	</questions>	
+	<scores><![CDATA[<h2>Ton pointage</h2>
+		<hr/>
+		<h3>15-24 : Base faible</h3>
+		<p>Ceci n'est peut-être pas une amitié très forte. Essaie de te demander ce que ça signifie pour toi d'être un(e) ami(e). Ensuite, demande-toi si toi et ton ami(e) faites votre possible pour vous aider et vous supporter mutuellement. Te sens-tu bien lorsque tu es avec cette personne? Ou est-ce que tu te sens triste, blessé(e) ou fâché(e) la plupart du temps? Il est peut-être temps de penser à ce que tu peux faire pour rendre cette amitié plus forte ou d'essayer de développer des amitiés plus proches avec d'autres personnes que tu connais.</p>
+		<h3>25-34 : Besoin de rénovations</h3>
+		<p>Ton amitié avec cette personne n'est pas en piteux état, mais il y aurait peut-être quelques choses à améliorer. Rappelle-toi, toutes les amitiés vivent des moments difficiles de temps à autre. Et parfois, à travailler ensemble, on arrive à solidifier cette amitié. S'il y a des aspects de ton amitié que tu valorises, ça vaut la peine de mettre la main à la pâte.</p>
+		<h3>35-45 : Une solide base</h3>
+		<p>Tous les signes indiquent que tu es dans une amitié saine. Ton ami(e) et toi vous respectez et vous soutenez mutuellement. Lorsque vous rencontrez un problème, vous travaillez ensemble de manière saine, sans vous attaquer personnellement. Il arrive même que votre amitié se solidifie à travers les problèmes que vous rencontrez. Idéalement, cette amitié vous permet également d'évoluer chacun de votre côté.</p>
+		<hr/>
+		<p>Tu crois qu'il serait temps de laisser tomber une amitié?<br/>Il y a des façons de le faire dans le respect.</p> 
+		<p><a href="http://www.jeunessejecoute.ca/Teens/InfoBooth/Friendship/Drifting-apart.aspx" target="_top">Clique ici pour en apprendre davantage.</a></p>
+]]></scores>
+</data>

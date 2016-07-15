@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Are you getting enough sleep?</title>
+	<description><![CDATA[Click next to begin the quiz.]]></description>
+	<quizType>2</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>sleep-kids.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>I feel good when I wake up.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>		
+			<response>Feeling good when you wake up in the morning is a sign that you’re getting enough sleep.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>I often feel tired during the day.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>	
+			<response>Feeling tired is a sign that you need to sleep more. Other signs that you are tired are yawning a lot, or feeling cranky.</response>
+		</q>	
+		<q><!-- 3 -->
+			<text>I go to bed at around the same time every night.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>	
+			<response>Going to bed at the same time every night means you’ll have less trouble falling asleep and will sleep better.</response>
+		</q>			
+		<q><!-- 4 -->
+			<text>I sleep in a place that is quiet, dark and comfortable.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>	
+			<response>A quiet, dark, comfortable sleeping place will help you get a good night’s sleep.</response>
+		</q>		
+		<q><!-- 5 -->
+			<text>I often have bad dreams.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>	
+			<response>If you’re having bad dreams, it’s a good idea to talk about them with an adult you trust, like a parent or teacher. Doing quiet, relaxing things before bed, like taking a warm bath (no scary books or movies!) may help chase away those nightmares.</response>
+		</q>
+		<q><!-- 6 -->
+			<text>I think that getting a good night’s sleep is just as important as healthy eating and exercise.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>	
+			<response>The mind is a powerful thing! People who think that sleep is important, usually sleep better.</response>
+		</q>					
+		<q><!-- 7 -->
+			<text>I have a routine that I follow every night before I go to bed (e.g., brush my teeth, put on my pyjamas, read a book, etc.)</text>
+			<a value="1">True</a>
+			<a value="0">False</a>	
+			<response>Following a bedtime routine lets your body know that it’s time to sleep.</response>
+		</q>
+		<q><!-- 8 -->
+			<text>I sleep in more than 2 to 3 hours later on the weekends than on weekdays.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>	
+			<response>Sleeping in on the weekends can be a sign that your body needs more sleep. Try going to bed half an hour earlier during the week and see if that helps you sleep less on the weekends.</response>
+		</q>
+		<q><!-- 9 -->
+			<text>Sleeping problems are making me unhappy.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>	
+			<response>If you’re in a bad mood because you’re having trouble sleeping, talk to your doctor or another adult you trust. They can help.</response>
+		</q>		
+	</questions>
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr>
+
+		<h3>0 to 3 = Starved for sleep</h3>
+		<p>Looks like you’re not getting enough sleep. It could be that you’re really busy, stressed, or that something’s going on in your life. Read on for tips on getting a good night’s rest. You might also want to talk to your parents for help.</p>
+
+		<h3>4 to 6 = So-so sleeper</h3>
+		<p>You know how to get into a good sleeping routine, but still you could be getting more z’s. Improving your sleep habits will help you feel much better. Keep reading for sleep tips that might work for you.</p>
+
+		<h3>7 to 9 = Star sleeper</h3>
+		<p>Congratulations! You are a great sleeper. If anything changes, check these pages for tips on how to sleep better. Otherwise, keep up the good work.</p>
+
+		<br>
+		<p><a href="http://www.kidshelpphone.ca/Kids/InfoBooth/My-Body/Sleep/Sleeping-tips.aspx" target="_top">Keep reading for sleep tips that might work for you.</a></p>]]>
+	</scores>
+</data>

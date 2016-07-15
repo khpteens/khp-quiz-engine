@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>How solid is my friendship?</title>
+	<description><![CDATA[Think of a friendship as a building – in order to last, it needs to be built on a firm foundation. But when it comes to some friendships, especially those you’ve had for a while, it can be difficult to tell how solid it really is. Think of one of your friendships while you take this quiz to find out if it’s built to last.]]></description>
+	<quizType>3</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage></backgroundImage>
+	<backgroundColour></backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>My friend respects my decisions.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Sometimes</a>
+			<a value="3">Often</a>
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>My friend thinks it’s okay that we disagree from time to time</text>
+			<a value="1">Not at all</a>
+			<a value="2">Sometimes</a>
+			<a value="3">Often</a>
+			<response></response>
+		</q>		
+		<q><!-- 3 -->
+			<text>My friend is not hurt when I have plans with other friends or have other things to do.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 4 -->
+			<text>My friend considers my opinions.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 5 -->
+			<text>My friend gossips about me to other people.</text>
+			<a value="3">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="1">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>When my friend and I have a problem we try to find a solution that works for both of us.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 7 -->
+			<text>When my friend and I have a problem we call each other names, mock each other on Facebook, and make other personal attacks.</text>
+			<a value="3">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="1">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 8 -->
+			<text>I can be myself around my friend.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 9 -->
+			<text>My friend and I argue a lot.</text>
+			<a value="3">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="1">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 10 -->
+			<text>I feel happy when I’m with my friend.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 11 -->
+			<text>My friend helps me when I’m having trouble with something.</text>  
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 12 -->
+			<text>My friend is happy for me when something good happens to me.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>		
+		<q><!-- 13 -->
+			<text>My friend sticks up for me.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 14 -->
+			<text>If I have a problem, I can talk to my friend about it.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 15 -->
+			<text>My friend and I have fun together.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr/>
+		<h3>15-24 points = On the Rocks</h3>
+		<p>This might not be a strong friendship. Try asking yourself what it means to be a friend. Then ask yourself whether you and your friend are doing your best to help and support each other. Do you feel good when you’re around your friend, or do you spend most of your time feeling hurt, angry, stressed out? It might be time to think more about what you can do to make this friendship stronger or reach out to other friends in your life you’d like to get closer to.</p>
+		<h3>25-34 points = Needs Work</h3>
+		<p>Your friendship isn’t in terrible shape, but there may be some things that need improvement. Remember, all friendships have issues at some point, and sometimes working through them makes the friendship stronger. If there are things about the friendship you value, it’s worth putting in the work.</p>
+		<h3>35-45 points = A Firm Foundation</h3>
+		<p>All signs point to this being a healthy friendship. You and your friend look out for each other and respect each other. When you have a problem, you work through it in a healthy way, without attacking each other personally. You might even come through a problem closer than before. Hopefully, this friendship also gives you both room to change and grow.</p>
+		<hr/>
+		<p>Think it might be time to let go of a friend?<br/>There are ways to do it respectfully.</p> 
+		<p><a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Friendship/Drifting-apart.aspx" target="_top">Click here for more information</a></p>
+]]></scores>
+</data>

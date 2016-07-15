@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <title>Quelles sont tes connaissances en ce qui concerne les rencontres amoureuses ?</title>
+    <description>
+        <![CDATA[À quel point en sais-tu sur les rencontres amoureuses ? Fais ce test pour le savoir !]]>
+    </description>
+    <quizType>2</quizType>
+    <!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+    <backgroundImage>datingIQ-bg.jpg</backgroundImage>
+    <backgroundColour>#024286</backgroundColour>
+    <titleBackgroundImage>datingIQ-splash-fr.jpg</titleBackgroundImage>
+    <questions>
+        <q>
+            <!-- 1 -->
+            <text>Lequel de ces énoncés est un signe que tu es attiré(e) par une personne ?</text>
+            <a value="0">Penser à l'autre personne</a>
+            <a value="0">Avoir plus d'énergie</a>
+            <a value="0">Vouloir être près de cette personne tout le temps</a>
+            <a value="1">Toutes ces réponses</a>
+            <response>Lorsque tu t'éprends d'une personne, tu as tendance à penser à elle beaucoup, à avoir plus d'énergie et vouloir être avec elle tout le temps.</response>
+        </q>
+        <q>
+            <!-- 2 -->
+            <text>Lequel de ces énoncés est signe d'une relation amoureuse saine ?</text>
+            <a value="0">La confiance</a>
+            <a value="0">Donner et recevoir du support</a>
+            <a value="0">Dire à ton partenaire quoi faire</a>
+            <a value="1">A et B</a>
+            <response>La confiance et le soutien sont deux qualités importantes d'une relation saine.</response>
+        </q>
+        <q>
+            <!-- 3 -->
+            <text>Lequel de ces énoncés est signe d'une relation amoureuse malsaine ?</text>
+            <a value="0">Ne pas être capable de parler à ton chum ou à ta blonde</a>
+            <a value="0">Se disputer tout le temps</a>
+            <a value="0">Ne pas être capable de parler de la sexualité et ses risques</a>
+            <a value="1">Toutes ces réponses</a>
+            <response>Ne pas être en mesure de parler avec ton copain/ta copine, se chicaner tout le temps et ne pas se sentir à l'aise de discuter de sujets importants comme « les relations sexuelles protégées » sont tous des signes d'une relation malsaine.</response>
+        </q>
+        <q>
+            <!-- 4 -->
+            <text>Quand devrais-tu penser à laisser ton chum ou ta blonde ?</text>
+            <a value="0">S'il/elle a une mauvaise coupe de cheveux</a>
+            <a value="1">Si tu as peur de lui ou d'elle</a>
+            <a value="0">Si vous n'avez pas les mêmes goûts musicaux</a>
+            <a value="0">S'il/elle échoue un examen à l'école</a>
+            <response>Si tu as peur de ton copain/ta copine, il s'agit d'un signe important que tu n'es pas dans une relation saine. Il serait peut-être bien que tu reconsidères s'il s'agit d'une bonne relation pour toi.</response>
+        </q>
+        <q>
+            <!-- 5 -->
+            <text>Quel est le pourcentage des parents qui ont des règles concernant où et quand leurs enfants peuvent sortir avec quelqu'un d'autre ?</text>
+            <a value="0">25%</a>
+            <a value="0">50%</a>
+            <a value="1">65%</a>
+            <a value="0">100%</a>
+            <response>Plus de la moitié des parents mettent des règles pour protéger leurs jeunes lorsqu'ils commencent à faire des rencontres amoureuses.</response>
+        </q>
+        <q>
+            <!-- 6 -->
+            <text>Lesquels de ces énoncés sont vrais dans le cas d'une relation amoureuse à distance ?</text>
+            <a value="1">Certains couples sont capables d'avoir une bonne relation amoureuse à distance.</a>
+            <a value="0">Les relations amoureuses à distance ne fonctionnent jamais.</a>
+            <a value="0">Les relations amoureuses à distance sont faciles.</a>
+            <a value="0">A et B</a>
+            <response>Les relations amoureuses à distance peuvent être compliquées, mais elles ont également leurs côtés positifs et certaines personnes réussissent à les faire fonctionner !</response>
+        </q>
+        <q>
+            <!-- 7 -->
+            <text>Quel est le pourcentage des relations amoureuses d'étudiants universitaires qui sont à longue distance ?</text>
+            <a value="0">10%</a>
+            <a value="1">33%</a>
+            <a value="0">50%</a>
+            <a value="0">66%</a>
+            <response>Il est vrai qu'environ 33% des relations amoureuses vécues par les étudiants universitaires sont à longue distance.</response>
+        </q>
+        <q>
+            <!-- 8 -->
+            <text>Lesquels des énoncés suivants sont vrais ?</text>
+            <a value="0">L'attirance est différente de l'amour.</a>
+            <a value="0">Les relations amoureuses occasionnelles deviennent parfois plus sérieuses.</a>
+            <a value="0">Ressentir une attirance nous fait toujours sentir bien.</a>
+            <a value="1">A et B</a>
+            <response>Deux de ces affirmations sont vraies: avoir un béguin et être en amour ne veulent pas dire la même chose et fréquenter quelqu'un peut parfois mener à une relation sérieuse. Une affirmation est fausse : avoir un béguin pour quelqu'un ne veut pas toujours dire que l'on se sent bien.</response>
+        </q>
+        <q>
+            <!-- 9 -->
+            <text>Quelles sont les façons de passer au travers d'une rupture ?</text>
+            <a value="0">Passer du temps avec ta famille et tes amis</a>
+            <a value="0">Parler de tes sentiments</a>
+            <a value="0">Pleurer ou laisser sortir tes émotions d'une autre manière</a>
+            <a value="1">Toutes ces réponses</a>
+            <response>Passer du temps avec ses amis et sa famille, parler de ses émotions et pleurer pour se vider le cœur sont des façons saines de gérer la peine qui vient suite à une rupture amoureuse. Rappelle-toi que tu peux également contacter Jeunesse, J'écoute au 1-800-668-6868 ou en ligne par le biais de notre site Internet.</response>
+        </q>
+        <q>
+            <!-- 10 -->
+            <text>Les garçons, dans les relations amoureuses...</text>
+            <a value="1">Ont des sentiments et peuvent être blessés, tout comme les filles</a>
+            <a value="0">En savent plus que les filles à ce sujet</a>
+            <a value="0">Devraient prendre la plupart des décisions</a>
+            <a value="0">Ne veulent que du sexe</a>
+            <response>C'est vrai, les gars comme les filles ont des sentiments et peuvent se sentir blessés dans une relation.</response>
+        </q>
+    </questions>
+    <scores>
+        <![CDATA[<h2>Ton score</h2>
+	
+		<h3>0-4 points = Débutant(e) dans les relations amoureuses</h3>
+		
+		<p>Il est temps d'améliorer tes connaissances à propos des relations amoureuses ! Par chance, il y a une tonne d'informations qui circulent pour te permettre d'en apprendre davantage. Tu pourrais commencer par lire les autres pages de la section. Souviens-toi que si tu désires parler de relations amoureuses avec quelqu'un, les intervenants de Jeunesse J'écoute sont toujours là pour toi.</p>
+		
+		<h3>5-7 points = Expérimenté(e) dans les relations amoureuses</h3>
+		
+		<p>Tu es sur la bonne voie !  Tu en sais pas mal sur les relations amoureuses, mais il est toujours possible d'en apprendre plus. Tu pourrais commencer par lire les autres pages de la section.  Souviens-toi que tu peux toujours appeler un intervenant de Jeunesse J'écoute si tu as besoin de parler.</p>
+		
+		<h3>8-10 points = Expert(e) dans les relations amoureuses</h3>
+		
+		<p>Wow ! Tu es un(e) vrai(e) expert(e) dans les relations amoureuses ! Tes connaissances vont grandement t'aider à gérer différents scénarios pouvant se produire dans ta vie amoureuse. Tes amis te sollicitent sans doute déjà pour tes conseils amoureux.</p>
+]]></scores>
+</data>

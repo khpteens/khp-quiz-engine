@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>How strong is my friend connection?</title>	
+	<description><![CDATA[Think of a particular friend in your life and take this quiz to find out how connected you are to that person.]]></description>
+	<quizType>3</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>friendshipConnection-bg-teens.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage>friendConnection-splash.jpg</titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>I feel close to my friend.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>I am often angry with my friend.</text>
+			<a value="3">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="1">Very much</a>
+			<response></response>
+		</q>		
+		<q><!-- 3 -->
+			<text>I would be upset if this friendship ended.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 4 -->
+			<text>It’s more fun to do things with my friend than by myself.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 5 -->
+			<text>When I’m upset, my friend makes me feel worse.</text>
+			<a value="3">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="1">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>I wish my friend was more understanding.</text>
+			<a value="3">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="1">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 7 -->
+			<text>No one supports me like my friend does.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 8 -->
+			<text>I avoid talking about my problems with my friend.</text>
+			<a value="3">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="1">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 9 -->
+			<text>I know that my friend is loyal.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 10 -->
+			<text>I don’t like to depend on my friend.</text>
+			<a value="3">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="1">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 11 -->
+			<text>I enjoy spending time with my friend.</text>  
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 12 -->
+			<text>My friend understands me.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 13 -->
+			<text>My friend knows me.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 14 -->
+			<text>My friend accepts me.</text>
+			<a value="1">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 15 -->
+			<text>I don’t turn to my friend when things get rough.</text>
+			<a value="3">Not at all</a>
+			<a value="2">Somewhat</a>
+			<a value="1">Very much</a>
+			<response></response>
+		</q>
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+	
+		<h3>15-24 points = Weak Link</h3>
+		
+		<p>You and your friend aren’t very close and probably don’t share your thoughts or feelings very often. This is probably not a friend you come to when you have a problem. Friends like these can go one of two ways. First, you might not be very happy and want more from the friendship. Or, you might be okay with where the friendship’s at and want to keep it that way, especially if you have other, closer friends.</p>
+		
+		<h3>25-34 points = Cautious Connection</h3>
+		
+		<p>You and your friend are somewhat close. You probably share some of your thoughts and feelings with each other, but there might be things that you are holding back. You might find that putting in more effort can bring the two of you closer.</p>
+		
+		<h3>35-45 points = Feel-good Friends</h3>
+		
+		<p>You and your friend are pretty close. You are loyal and more likely to share your thoughts and feelings with each other. Chances are that you are happy in this friendship.</p>
+		
+		<p><a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Friendship/Strong-friendships.aspx" target="_top">Keep reading for tips about healthy friendships</a></p>
+]]></scores>
+</data>

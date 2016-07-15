@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Do you have test stress?</title>
+	<description><![CDATA[Keeping your most recent test experience in mind,<br/>read the following statements and decide if they are true or false.]]></description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>testStress-teens.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>In the past, I have had positive experiences with tests.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>			
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>I feel like I have to get perfect on tests.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response></response>
+		</q>	
+		<q><!-- 3 -->
+			<text>I believe that I can do well on tests. </text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response></response>
+		</q>			
+		<q><!-- 4 -->
+			<text>I believe that I have control over how well I do on tests. </text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response></response>
+		</q>		
+		<q><!-- 5 -->
+			<text>I usually manage my time well during tests.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>When there is a question that I don’t understand, I either skip it and come back to it later, or try my best to figure out the answer.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response></response>
+		</q>					
+		<q><!-- 7 -->
+			<text>To be successful in life, I have to do well on tests. </text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response></response>
+		</q>
+		<q><!-- 8 -->
+			<text>I am worried or afraid of how I will do on tests.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response></response>
+		</q>
+		<q><!-- 9 -->
+			<text>When I think about an upcoming test or a test I just finished, I feel angry, sad, disappointed or guilty.  </text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response></response>
+		</q>
+		<q><!-- 10 -->
+			<text>Doing well on tests is important in helping me achieve my goals.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response></response>
+		</q>
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr>
+		<h3>Calm and Collected (8-10 points)</h3>
+		<p>Tests aren’t a problem for you – you understand that studying, not stress, is the key to success. When you’ve got a really important test coming up, you know how to reduce your stress by doing things like deep breathing, getting enough sleep, and being well-prepared. Have you considered sharing your stress-busting tips with your friends? We bet they’d love to know your secrets!</p>	
+
+		<h3>Sometimes Stressed (4-7 points)</h3>
+		<p>Like everyone, you stress sometimes about tests, especially if you have a big or important one coming up. Test stress is really common among teens, but you can learn ways to keep your stress levels low! Did you know that preparing properly for a test or assignment can help you stress less?</p>
+		<p><a href="http://www.kidshelpphone.ca/Teens/InfoBooth/School/Test-taking-tips.aspx" target="_top">Check out our study tips<br/>for help on how to relax before a test.</a></p>	
+
+		<h3>Super Stressed (0-3 points)</h3>
+		<p>Looks like you’ve got a lot of stress about tests and school assignments, and you may feel a bit overwhelmed. You may be not preparing effectively for tests, or you may be studying so much that you’ve started to lose sleep or become unfocused. Do you know anything about anxiety? Anxiety is different from everyday test stress, but you might find that some symptoms sound familiar.</p>
+		<p><a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Emotional-Health/Anxiety.aspx" target="_top">Read about anxiety.</a></p> 
+		<p>Whether you think you’re stressed or anxious, you might want to talk to an adult you trust, or call Kids Help Phone to talk to a counsellor. We’re here to help.</p>
+		]]>		
+	</scores>
+</data>

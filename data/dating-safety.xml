@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <title>Test your dating safety smarts</title>
+    <description>
+        <![CDATA[On a safe date, both you and the person you're with should feel comfortable, not concerned or afraid. Before you go out with anyone,<br/>make sure you are safe by taking a few precautions.]]>
+    </description>
+    <quizType>2</quizType>
+    <!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+    <backgroundImage>datingSafety-bg.jpg</backgroundImage>
+    <backgroundColour>#024286</backgroundColour>
+    <titleBackgroundImage>datingSafety-splash.jpg</titleBackgroundImage>
+    <questions>
+        <q>
+            <!-- 1 -->
+            <text>Which contact(s) should I put on my phone before I go on a date?</text>
+            <a value="0">A friend or family member who knows where I'm going</a>
+            <a value="0">310-TAXI, which will get me a cab anywhere in Canada</a>
+            <a value="0">A psychic hotline, in case I get confused</a>
+            <a value="1">A and B</a>
+            <response>In case you start to feel unsafe, you should be able to contact help quickly. You can also call Kids Help Phone at 1-800-668-6868 for free– we're always here to help. You can also reach us quickly through <a href='http://www.kidshelpphone.ca/Teens/PhoneUs/AlwaysThere.aspx' target='_blank'>our mobile app, Always There</a>, which is also free and available for iOs, Android and BlackBerry.</response>
+        </q>
+        <q>
+            <!-- 2 -->
+            <text>"Yikes! I'm almost late for my date. Before I leave, I should…"</text>
+            <a value="0">Charge my phone, if I have one</a>
+            <a value="0">Brush my teeth</a>
+            <a value="0">Tell someone where I'm going</a>
+            <a value="1">A and C</a>
+            <response>In case you're not feeling comfortable during a date, and need someone to come and get you, you should always have a charged cell phone or change for a phone call ready at hand.</response>
+        </q>
+        <q>
+            <!-- 3 -->
+            <text>"Should I meet this person for a blind date?"</text>
+            <a value="0">Why not?</a>
+            <a value="0">Only if you meet them in a public place</a>
+            <a value="0">Only if you tell someone where you're going and when you'll be back</a>
+            <a value="1">B and C</a>
+            <response>It's important to be cautious if you're meeting someone for a blind date. Make sure that you meet in a public place where you'll feel safe. And like in all new dating situations, make sure someone knows where you are and who you're with.</response>
+        </q>
+        <q>
+            <!-- 4 -->
+            <text>"Where should I take them on our first date?"</text>
+            <a value="1">To the movies with a bunch of friends</a>
+            <a value="0">To their house, alone</a>
+            <a value="0">To a bar</a>
+            <a value="0">Out of town</a>
+            <response>Meeting someone in a public place, or in a group of people you know and trust, will make you feel more comfortable on a first date or even the first few dates.</response>
+        </q>
+        <q>
+            <!-- 5 -->
+            <text>"Before I go on my date, I should know…"</text>
+            <a value="1">Where I'm going and how to get back</a>
+            <a value="0">What to say if it gets awkward</a>
+            <a value="0">Their Facebook password</a>
+            <a value="0">A and B</a>
+            <response>In case you need to get out of an unsafe situation quickly, make sure you know where you're going on your date and a quick, safe way to get home on your own.</response>
+        </q>
+        <q>
+            <!-- 6 -->
+            <text>In order to help me stay safe, I should bring the following things with me on a date:</text>
+            <a value="0">Money, including taxi fare</a>
+            <a value="0">Tissues</a>
+            <a value="0">Protection (for example, condoms, dental dams)</a>
+            <a value="0">Phone</a>
+            <a value="0">Breath mints</a>
+            <a value="1">A, C and D </a>
+            <response>Make sure you have your phone, taxi fare, and, if you are planning on being sexual, contraceptives.</response>
+        </q>
+        <q>
+            <!-- 7 -->
+            <text>If I drink tonight, I should:</text>
+            <a value="0">Make sure my drink isn't left unattended</a>
+            <a value="0">Be careful not to get drunk</a>
+            <a value="0">Make sure there's a sober designated driver</a>
+            <a value="1">All of the above</a>
+            <response>Alcohol and other mood-altering substances can affect the way you think and impair your judgment, making it more difficult to stay safe on a date. Be sure you take precautions against drunk driving and watch your drink to make sure no one puts anything in it that they shouldn't, like drugs.</response>
+        </q>
+        <q>
+            <!-- 8 -->
+            <text>All night, I will:</text>
+            <a value="0">Trust my own instincts</a>
+            <a value="0">Say "no" if I want to</a>
+            <a value="0">Put the details on Twitter</a>
+            <a value="1">A and B</a>
+            <response>In the end, what you do and don't do on a date is up to you – listen to your instincts and say "no" if you feel uncomfortable.</response>
+        </q>
+    </questions>
+    <scores>
+        <![CDATA[<h2>Your Score</h2>
+		<h3>0-3 points = Not-So-Safe Stephen</h3>
+		<p>If you scored low on this quiz, you're not alone. It can be difficult to figure out how to date at all – let alone how to date safely! Before you go on a date, read up on dating in our other sections, or contact a counsellor at Kids Help Phone for some tips that will work for you. Your safety is important!</p>
+		<h3>4-6 points = Semi-Safe Shen</h3>
+		<p>If you don't take a lot of safety precautions on dates, you're not alone. It can be difficult to always play it safe, but try to remember that your safety is important. Read up on our dating tips before you head out on your next date, and remember, you can always call a counsellor at Kids Help Phone for a refresher course in making sure you stay safe.</p>
+		<h3>7-8 points = Safety Superstar Sahar</h3>
+		<p>Bravo! You not only know a lot about dating safety, but you practice what you preach, too! Before you go on a date, you always make sure that someone knows where you are and you take precautions like bringing taxi fare in case you need to end a date quickly. Do your friends know how safety-savvy you are? Make sure you pass along your knowledge to them, too – as they say, there's safety in numbers.</p>	
+		]]>
+    </scores>
+</data>

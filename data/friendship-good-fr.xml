@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Es-tu un(e) bon(ne) ami(e)?</title>
+	<description>Souvent, le secret pour avoir de bons amis, c'est d'en être un soi-même. En gardant en tête une amitié actuelle, réponds aux questions suivantes pour savoir si tu es un(e) bon(ne) ami(e).</description>
+	<quizType>3</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>friendship-bg.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q>
+			<text>Je garde contacte avec mon ami(e) (téléphone, textos, courriels, en personne)</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Parfois</a>
+			<a value="3">Souvent</a>
+			<response>Être un ami, ça signifie être là pour l'autre, ce n'est pas seulement à propos de toi. Prendre de ses nouvelles par message texte, téléphone ou en faisant des plans pour se voir sont différentes manières de lui montrer que cette personne est importante à tes yeux.</response>
+		</q>
+		<q>
+			<text>Je fais des choses pour que mon ami(e) sache que je me soucie de lui/d'elle comme me rappeler de sa date d'anniversaire, lui dire des choses pour le/la faire rire, le/la complimenter.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Parfois</a>
+			<a value="3">Oui, beaucoup</a>
+			<response>Les amis doivent se soucier l'un de l'autre. Les amis qui savent que tu te soucies d'eux savent que tu penses à eux, ce qui est très important dans une amitié.</response>
+		</q>		
+		<q>
+			<text>J'écoute mon ami(e) lorsqu'il/elle a besoin de parler.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Parfois</a>
+			<a value="3">Oui, beaucoup</a>
+			<response>Une bonne écoute signifie ne pas interrompre, jouer avec ton cellulaire ou regarder quelqu'un qui passe près de toi pendant que ton ami(e) est en train de te parler. L'écoute est importante, car elle aide ton ami(e) à se sentir compris(e).</response>
+		</q>
+		<q>
+			<text>Je ne juge pas mon ami(e). Je l'accepte tel(le) qu'il/elle est.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Parfois</a>
+			<a value="3">Oui, beaucoup</a>
+			<response>Accepter ses amis pour qui ils sont signifie ne pas essayer de les changer. Quand ton ami(e) comprend que tu l'aimes comme il/elle est, il/elle se sentira confortable en ta compagnie.</response>
+		</q>
+		<q>
+			<text>Je fais des choses amusantes avec mon ami(e).</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Parfois</a>
+			<a value="3">Oui, beaucoup</a>
+			<response>Lorsque tu t'amuses avec ton ami(e) sur une base régulière, vous aurez tous les deux hâte de vous revoir.</response>
+		</q>
+		<q>
+			<text>Je suis à l'aise avec le fait que mon ami(e) ait d'autres amis.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Parfois</a>
+			<a value="3">Oui, beaucoup</a>
+			<response>Il est important que toi et ton ami(e) soyez à l'aise à avoir d'autres amis. Ceci démontre que vous êtes bien dans votre amitié et que vous ne vous fiez pas uniquement l'un à l'autre pour répondre à vos besoins en amitié.</response>
+		</q>
+		<q>
+			<text>Je garde les secrets de mon ami(e).</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Parfois</a>
+			<a value="3">Oui, beaucoup</a>
+			<response>Garder les secrets de nos amis leur permet de savoir qu'ils peuvent nous faire confiance. La seule exception : si ton ami(e) garde un secret qui peut le/la mettre en danger. Dans ce cas, tu peux avoir besoin d'en parler avec un adulte pour assurer sa sécurité.</response>
+		</q>
+		<q>
+			<text>Je parle à mon ami(e) des choses importantes qui se passent dans ma vie.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Parfois</a>
+			<a value="3">Oui, beaucoup</a>
+			<response>Tu n'es pas obligé(e) de TOUT dire à ton ami(e), mais le fait de lui parler de ce qui se passe dans ta vie lui permet de mieux te connaître et te comprendre. Ça peut aussi l'aider à se sentir plus à l'aise de te partager des choses de sa vie en retour.</response>
+		</q>
+		<q>
+			<text>Je ne fais pas que parler de moi-même avec mon ami(e).</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Parfois</a>
+			<a value="3">Oui, beaucoup</a>
+			<response>Si tu ne fais que parler de toi, tes amis vont s'ennuyer rapidement. Montre à tes amis que tu n'es pas seulement intéressé par toi-même en leur demandant ce qui se passe dans leurs vies de temps en temps.</response>
+		</q>
+		<q>
+			<text>Si mon ami(e) et moi sommes en désaccord, je suis prêt(e) à entendre sa version de l'histoire.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Parfois</a>
+			<a value="3">Oui, beaucoup</a>
+			<response>La plupart des amis ont des petits désaccords de temps en temps. C'est correct d'avoir des désaccords, mais il est important que tu prennes le temps d'entendre la perspective de ton ami(e). Ceci aidera ton ami(e) à sentir que tu te soucies de lui/elle. Idéalement, ton ami(e) prendra aussi le temps d'écouter ton point de vue.</response>
+		</q>
+		<q>
+			<text>Je suis capable de faire des compromis avec mon ami(e).</text>  
+			<a value="1">Pas du tout</a>
+			<a value="2">Parfois</a>
+			<a value="3">Oui, beaucoup</a>
+			<response>Être capable de faire des compromis veut dire faire des choses que tu n'as pas nécessairement envie de faire. Idéalement, ton ami(e) sera également capable d'en faire de son côté.</response>
+		</q>
+		<q>
+			<text>Je respecte les opinions de mon ami(e).</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Parfois</a>
+			<a value="3">Oui, beaucoup</a>
+			<response>Respecter les opinions de ton ami(e), même quand tu ne les partages pas, démontre que tu respectes ton ami(e) comme personne et que tu l'aimes tel(le) qu'il/elle est.</response>
+		</q>		
+	</questions>	
+	<scores><![CDATA[<h2>Ton pointage</h2>
+		<h3>12-19 : L'ami-pas-trop-parfait</h3>
+		<p>Souviens-toi que la première étape pour avoir de bons amis, est d'en être un soi-même. Même si le fait d'avoir des amis est important pour toi, il se peut que les autres ne le voient pas. Pense aux qualités que tu recherches chez un ami. Ceci peut comprendre : être amusant, avoir une bonne écoute, se soucier de moi, etc. Maintenant, pense aux qualités que tu possèdes, qui sont utiles à une bonne amitié. Es-tu toi aussi amusant(e), attentif(ve) et soucieux(se)?</p>
+		<h3>20-27 : L'ami-pas-trop-mal</h3>
+		<p>Tu saisis la plupart des qualités nécessaires pour être un bon ami. Même si tu es généralement un(e) bon(ne) ami(e) pour les autres, il peut arriver que parfois tu ne sois pas un aussi bon ami que tu pourrais l'être. Pense à des façons que tu pourrais améliorer ton amitié. Pourrais-tu démontrer un petit peu plus d'intérêt pour ta relation avec cette personne?</p>
+		<h3>28-36 : L'ami-fabuleux</h3>
+		<p>Tu sais qu'il est important d'être un(e) bon(ne) ami(e) et tu le montres aux autres à travers tes paroles et tes gestes. Tu te soucies de tes amis, tu les écoutes et tu les acceptes tels qu'ils sont. Idéalement, tes amis t'apprécient autant en retour.</p>
+		<p>Dans les questions où tu as répondu « pas du tout » ou « en quelque sorte », quelles sont les choses sur lesquelles tu pourrais décider de travailler? Continue de revérifier de temps à autres si ces aspects continuent de s'améliorer  ou si tu pourrais travailler sur de nouveaux aspects.</p> 
+		<p><a href="http://www.jeunessejecoute.ca/Teens/InfoBooth/Friendship/Strong-friendships.aspx" target="_top">Clique ici pour des astuces sur<br/> comment avoir des amitiés en santé</a></p>
+]]></scores>
+</data>

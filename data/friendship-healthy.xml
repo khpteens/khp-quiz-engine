@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>How healthy is your friendship?</title>
+	<description><![CDATA[It might be helpful to take this quiz with a particular friendship in mind.<br/>The quiz could help you to find out how healthy this friendship is and gain tips for improving it.]]></description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage></backgroundImage>
+	<backgroundColour></backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>I need to know what my friend is doing when we’re not hanging out.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>			
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>When my friend and I fight, I keep thinking about what happened over and over.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response></response>
+		</q>		
+		<q><!-- 3 -->
+			<text>I can only see myself being best friends with one person.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response></response>
+		</q>
+		<q><!-- 4 -->
+			<text>If I had a party and my best friend couldn’t come, I would still have fun with the other people there.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response></response>
+		</q>
+		<q><!-- 5 -->
+			<text>If I called my best friend and found out that they couldn’t talk because another friend was over, I would feel jealous.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>I sometimes follow my friend to find out what they’re doing.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response></response>
+		</q>
+		<q><!-- 7 -->
+			<text>I’m scared that my best friend is becoming better friends with someone else.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response></response>
+		</q>
+		<q><!-- 8 -->
+			<text>I call my friend unexpectedly just to check if they’re home or with someone else.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response></response>
+		</q>		
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr/>
+		<h3>0-2 points = An unhealthy friendship</h3>
+		<p>You often feel worried about other people coming between you. You might feel like your friend is not being loyal to you or that you have been betrayed. Whatever the case may be, feelings of jealousy can create even more distance between you and your friend.  That’s why it’s important to work on them so that you can develop a more healthy friendship!</p>
+		<h3>3-5 points = Somewhere in-between a healthy and unhealthy friendship</h3>		
+		<p>You sometimes feel worried about other people coming between you, but not always. Sometimes you worry that your friend won’t be there for you, or that they will move on to another friend. These feelings are pretty common, but it’s important to deal with them so they don’t bring you down.</p>
+		<h3>6-8 points = A healthy friendship</h3>
+		<p>You enjoy spending time with your friend and are not worried about other people coming between you. You understand that you have a strong friendship, but that you can both have fun with other friends too.</p>
+		<hr/>
+		<p>Are you feeling excluded in a friendship?</p> 
+		<p><a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Friendship/Feeling-excluded.aspx" target="_top">Get tips for feeling more secure in a friendship</a></p>
+]]></scores>
+</data>

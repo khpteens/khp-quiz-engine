@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Dors-tu suffisamment ?</title>
+	<description><![CDATA[Clique suiv pour commencer le jeu-questionnaire.]]></description>
+	<quizType>2</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>sleep-teens.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Je me sens reposé quand je me réveille.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>		
+			<response>Se sentir bien lorsqu’on se lève est un signe que l’on a assez dormi.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>Je me sens souvent fatigué pendant la journée.</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response>Se sentir fatigué est un signe qu’on a besoin de plus de sommeil. D’autres indices ? Bâiller, avoir les paupières lourdes, être agité ou irritable ou s’endormir pendant la journée.</response>
+		</q>	
+		<q><!-- 3 -->
+			<text>Je me couche à peu près à la même heure tous les soirs.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>	
+			<response>En allant te coucher à la même heure tous les soirs, tu aides ton corps à avoir un cycle de sommeil régulier. Tu auras donc moins de difficulté à t’endormir et tu dormiras mieux pendant la nuit.</response>
+		</q>			
+		<q><!-- 4 -->
+			<text>Je dors dans un endroit tranquille, sombre et confortable.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>	
+			<response>Se coucher dans un endroit tranquille, sombre et confortable aide à s’endormir plus facilement sans se réveiller pendant la nuit.</response>
+		</q>		
+		<q><!-- 5 -->
+			<text>Je fais souvent des cauchemars.</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response>Les cauchemars perturbent le sommeil. Même si tu ne peux pas contrôler tes rêves, tu peux contrôler tes activités avant d’aller te coucher, ce qui a un effet sur les rêves que tu fais. Essaie d’éviter de regarder des films d’horreur ou de jouer à des jeux vidéo violents. Et s’il y a quelque chose dans ta vie qui est la cause de ces cauchemars, ce serait une bonne idée que tu en parles à quelqu’un.</response>
+		</q>
+		<q><!-- 6 -->
+			<text>Je crois qu’avoir une bonne nuit de sommeil, c’est aussi important que de bien manger ou de faire de l’exercice.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>	
+			<response>L’esprit, c’est très puissant ! Les gens qui savent que le sommeil est important ont tendance à avoir de meilleures habitudes de sommeil, ce qui augmente leurs chances de bien dormir.</response>
+		</q>					
+		<q><!-- 7 -->
+			<text>J’ai toujours la même routine avant d’aller me coucher (par ex., brosser mes dents, mettre mon pyjama, lire un livre, etc.).</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>	
+			<response>Suivre une routine avant d’aller se coucher indique à notre corps que c’est le moment de dormir.</response>
+		</q>
+		<q><!-- 8 -->
+			<text>La fin de semaine, je me lève deux ou trois heures plus tard que la semaine.</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response>Faire la grâce matinée la fin de semaine, ça peut être un signe que notre corps a besoin de plus de sommeil. Essaie de te coucher une demi-heure plus tôt la semaine pour voir si ça t’aide à dormir moins longtemps la fin de semaine.</response>
+		</q>
+		<q><!-- 9 -->
+			<text>J’ai remarqué un changement dans mes habitudes de sommeil – je dors moins ou plus longtemps qu’avant.</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response>Si tes habitudes de sommeil changent, ça peut être le signal d’un autre problème. Y a-t-il quelque chose qui te stresse ou qui t’inquiète ? Pour certaines personnes, un changement dans les habitudes de sommeil peut être le signe de problèmes comme la dépression ou l’anxiété. Si tu penses que ça pourrait être ton cas, essaie d’en parler à quelqu’une en qui tu fais confiance ou même à un médecin.</response>
+		</q>
+		<q><!-- 10 -->
+			<text>J’ai des problèmes de sommeil qui nuisent à d’autres aspects de ma vie.</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response>Lorsque ton sommeil est perturbé ça peut être stressant et avoir un impact sur comment tu te sens. C’est plus difficile de se concentrer à l’école quand on est fatigué. Et c’est aussi plus difficile de respecter nos autres obligations, comme les activités sportives, nos tâches à la maison et même la participation à nos activités. Le manque de sommeil peut même avoir un impact sur la relation avec tes amis et ceux qui t’entourent.  Mais on peut traiter les problèmes de sommeil. Si tu as besoin d’aide pour mieux dormir, ce serait une bonne idée d’aller voir le médecin.</response>
+		</q>		
+	</questions>	
+	<scores><![CDATA[<h2>Ton score</h2>
+		<hr>
+
+		<h3>De 0 à 3 = En manque de sommeil</h3>
+		<p>On dirait que tu ne dors pas assez. C’est peut-être parce que tu es très occupé ou stressé, ou encore qu’il se passe quelque chose dans ta vie. C’est important que tu essaies de faire de ton sommeil l’une de tes priorités parce que le manque de sommeil peut nuire à ta santé. En continuant ta lecture, tu découvriras des trucs pour bien dormir. Parfois, il arrive qu’on ait besoin de demander l’aide d’un médecin.</p>	
+
+		<h3>De 4 à 7 = Plus ou moins bon dormeur</h3>
+		<p>Tu as acquis quelques bonnes habitudes de sommeil, mais tu as peut-être besoin de dormir encore plus. Le fait d’améliorer tes habitudes de sommeil t’aidera à te sentir mieux et à profiter encore plus de la vie. En continuant ta lecture, tu découvriras des trucs qui pourraient t’être utiles.</p>
+
+		<h3>De 8 à 10 = Super dormeur</h3>
+		<p>Félicitations ! Tu as compris que le sommeil est important et tu en fais une priorité dans ta vie. Si tes habitudes de sommeil changent, reviens jeter un coup d’œil aux pages suivantes pour découvrir des trucs qui te permettront d’améliorer la situation. Sinon, garde tes bonnes habitudes !</p>	
+		
+		<p><a href="http://www.jeunessejecoute.ca/Teens/InfoBooth/Physical-Health/Sleep/Getting-a-good-sleep.aspx" target="_top">En continuant ta lecture, tu découvriras des trucs qui pourraient t’être utiles.</a></p>]]>		
+	</scores>
+</data>

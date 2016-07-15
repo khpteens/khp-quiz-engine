@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Sommes-nous de bons amis ?</title>
+	<description><![CDATA[Pense à l’un de tes amis et réponds à chacune des questions.<br/>Clique ici pour commencer le jeu-questionnaire.]]></description>
+	<quizType>3</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>friendship-bg-kids-2.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage>friendship-splash-kids.jpg</titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Mon ami est à l’aise lorsque je vois d’autres amis ou que j’ai d’autres activités.</text>
+			<a value="3">Pas du tout</a>
+			<a value="2">Un peu</a>
+			<a value="1">Beaucoup</a>					
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>Je peux être moi-même lorsque je suis avec mon ami.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Un peu</a>
+			<a value="3">Beaucoup</a>
+			<response></response>
+		</q>		
+		<q><!-- 3 -->
+			<text>Mon ami et moi avons souvent des désaccords.</text>
+			<a value="3">Pas du tout</a>
+			<a value="2">Un peu</a>
+			<a value="1">Beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 4 -->
+			<text>Je me sens bien lorsque je suis avec mon ami.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Un peu</a>
+			<a value="3">Beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 5 -->
+			<text>Mon ami m’aide quand j’en ai besoin.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Un peu</a>
+			<a value="3">Beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>Mon ami me défend.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Un peu</a>
+			<a value="3">Beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 7 -->
+			<text>Si j’ai un problème, je peux en parler avec mon ami.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Un peu</a>
+			<a value="3">Beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 8 -->
+			<text>Mon ami et moi nous amusons ensemble.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">Un peu</a>
+			<a value="3">Beaucoup</a>
+			<response></response>
+		</q>					
+	</questions>	
+	<scores><![CDATA[<h2>Ton score</h2>
+		<hr/>
+		<h3>8-12 = Vous n’êtes pas de bons amis</h3>		
+		<p>Ouf! Te sens-tu en colère lorsque tu es avec ton ami ? As-tu l’impression que tu ne peux pas être toi-même en sa présence ? Un bon ami devrait être une personne avec qui tu aimes passer du temps et qui est gentille avec toi.</p>
+		<h3>13-19 = Vous êtes de bons amis</h3>		
+		<p>Il arrive que les relations d’amitié changent au fil du temps, mais elles devraient normalement t’aider à te sentir en sécurité et heureux. Peux-tu penser à quelque chose que tu pourrais faire pour renforcer votre amitié ?</p>
+		<h3>20-24 = Vous êtes des amis fantastiques</h3>
+		<p>Il semble que tu as un ami vraiment super ! C’est formidable !</p>		
+]]></scores>
+</data>

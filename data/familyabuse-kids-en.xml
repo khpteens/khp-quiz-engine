@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Is this abuse? </title>
+	<description><![CDATA[Sometimes it’s hard to tell when someone in your family isn’t treating you or someone else right. Read each question carefully and think about whether or not each situation is abuse or neglect.]]></description>
+	<quizType>2</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>familyabuse-kids.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Shirley is 4 years old. One day she pushes her little sister into a wall. Shirley’s mom decides to spank Shirley lightly on the bottom. Is the spanking abuse?</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>					
+			<response>In Canada, it’s okay for parents to lightly spank their children if they are between the ages of 2–12, as long as the spanking is to teach a child something. Shirley was spanked because her mom wanted to teach Shirley that it’s not okay to hurt her sister.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>Hong is 12 years old. When she is helping her dad load groceries into the car, she drops one of the bags on the ground by mistake. Hong’s dad starts yelling at her and calling her names in the parking lot. Is this abuse?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>	
+			<response>Being yelled at and called names, especially in public, is a type of emotional abuse.</response>
+		</q>		
+		<q><!-- 3 -->
+			<text>Anh is 13 years old. Her parents think she’s playing too many videogames, so they decide to take away her game system for a week. Anh is so angry that she doesn’t come home for dinner the next day. She goes to the mall with her friends instead. When she gets home late that night, her parents lock her out of the house. Is this neglect?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>	
+			<response>According to Canadian law, parents have to give their kids a safe home to sleep in until they are at least 16. Even though Anh didn’t come home when she was supposed to, it is neglect not to let her back in the house.</response>
+		</q>
+		<q><!-- 4 -->
+			<text>Mohammed is 15 years old. Mohammed’s stepdad sometimes hits his 12-year old sister in front of him. Is this abuse?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>	
+			<response>It’s physical abuse for Mohammed’s stepdad to hit his sister. It’s also emotional abuse for Mohammed to see his sister being abused.</response>
+		</q>						
+	</questions>	
+	<scores><![CDATA[<h2>Your score</h2>
+		<hr/>
+		<h3>How did you do?</h3>
+		<p>It’s okay if you didn’t get all of the questions right. Thinking about abuse and the different ways that it can happen is an important part of learning how to make it stop. <a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Violence-and-Abuse/Family-abuse/What-can-I-do-about-family-abuse.aspx" target="_top">Keep reading for help with what you can do if there is abuse in your family.</a></p>		
+]]></scores>
+</data>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Est-ce que mon amitié est saine ?</title>
+	<description><![CDATA[Il peut être aidant de faire ce test en ayant en tête une amitié en particulier. Ce quiz peut t'aider à voir à quel point ton amitié est saine et à découvrir des trucs afin de l'améliorer.]]></description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage></backgroundImage>
+	<backgroundColour></backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>J'ai besoin de savoir ce que fait mon ami(e) quand nous ne sommes pas ensemble.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>			
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>Lorsque mon ami(e) et moi nous disputons, je n'arrête pas de repenser à ce qui s'est passé.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>	
+			<response></response>
+		</q>		
+		<q><!-- 3 -->
+			<text>Je peux seulement m'imaginer être le/la meilleur(e) ami(e) d'une seule personne.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>	
+			<response></response>
+		</q>
+		<q><!-- 4 -->
+			<text>Si j'allais à un party et que mon/ma meilleur(e) ami(e) n'était pas là, je serais quand même capable de m'amuser avec les autres personnes.</text>
+			<a value="1">Vrai</a>
+			<a value="0">Faux</a>
+			<response></response>
+		</q>
+		<q><!-- 5 -->
+			<text>Si j'appelais mon/ma meilleur(e) ami(e) et qu'il/elle ne pouvait pas me parler parce qu'un autre ami est là, je me sentirais jaloux(se).</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>	
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>Il m'arrive de suivre mon ami(e) pour voir ce qu'il/elle fait.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>	
+			<response></response>
+		</q>
+		<q><!-- 7 -->
+			<text>J'ai peur que mon/ma meilleur(e) ami(e) devienne le/la meilleur(e) ami(e) de quelqu'un d'autre.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>	
+			<response></response>
+		</q>
+		<q><!-- 8 -->
+			<text>Il m'arrive d'appeler mon ami(e) juste pour voir s'il/elle est avec quelqu'un d'autre.</text>
+			<a value="0">Vrai</a>
+			<a value="1">Faux</a>	
+			<response></response>
+		</q>		
+	</questions>	
+	<scores><![CDATA[<h2>Ton pointage</h2>
+		<hr/>
+		<h3>0-2 : Indique une amitié en santé</h3>
+		<p>Tu aimes passer du temps avec ton ami(e) et tu ne t'inquiètes pas si d'autres personnes se mettent entre vous deux. Tu comprends que tu as une amitié solide, mais que tous les deux vous avez le droit de vous amuser avec d'autres amis aussi.</p>
+		<h3>3-5 : Indique une amitié parfois saine, parfois malsaine</h3>		
+		<p>Tu t'inquiètes parfois quand d'autres personnes se mettent entre toi et ton ami(e), mais pas toujours. Parfois tu t'inquiètes que ton ami(e) ne sera pas là pour toi, ou qu'il/elle va devenir trop proche de quelqu'un d'autre. Ces sentiments sont communs, mais il est important de les gérer de façon à ce qu'ils ne deviennent pas envahissants.</p>
+		<h3>6-8 : Indique une amitié en mauvaise santé</h3>
+		<p>Tu te sens souvent inquiet(e) lorsque d'autres personnes se mettent entre vous deux. Tu as l'impression que ton ami(e) ne t'est pas loyal(e) ou que tu as été trahi(e). Peu importe la situation, le sentiment de jalousie peut créer encore plus de distance entre ton ami(e) et toi. C'est pourquoi il est important de travailler là-dessus afin de développer une amitié plus en santé!</p>
+		<hr/>
+		<p>Te sens-tu exclu d'une amitié?</p> 
+		<p><a href="http://www.jeunessejecoute.ca/Teens/InfoBooth/Friendship/Feeling-excluded.aspx" target="_top">Clique ici pour connaître des trucs pour te sentir plus en confiance dans tes amitiés.</a></p>
+]]></scores>
+</data>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>À quel point le lien avec mon ami(e) est-il fort ?</title>	
+	<description><![CDATA[Pense à une personne avec qui tu es lié(e) d'amitié actuellement et prends ce test pour voir à quel point ton lien est fort avec cette personne.]]></description>
+	<quizType>3</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>friendshipConnection-bg-teens.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Je me sens proche de cette personne.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>Je suis souvent fâché(e) contre cette personne.</text>
+			<a value="3">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="1">Oui, beaucoup</a>
+			<response></response>
+		</q>		
+		<q><!-- 3 -->
+			<text>Je serais triste/fâché(e) si cette amitié venait à se terminer.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 4 -->
+			<text>C'est plus amusant de faire des choses avec cette personne que seul(e).</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 5 -->
+			<text>Quand je ne vais pas bien, cette personne me fait sentir encore pire.</text>
+			<a value="3">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="1">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>Personne ne me soutient comme cette personne.</text>
+			<a value="3">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="1">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 7 -->
+			<text>Je souhaiterais que cette personne soit plus compréhensive.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 8 -->
+			<text>J'évite de parler de mes problèmes avec cette personne.</text>
+			<a value="3">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="1">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 9 -->
+			<text>Je sais que cette personne m'est loyale.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 10 -->
+			<text>Je n'aime pas dépendre de cet(te) ami(e).</text>
+			<a value="3">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="1">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 11 -->
+			<text>J'aime passer du temps avec cette personne.</text>  
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 12 -->
+			<text>Mon ami(e) me comprend.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 13 -->
+			<text>Mon ami(e) me connait.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 14 -->
+			<text>Mon ami(e) m'accepte.</text>
+			<a value="1">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="3">Oui, beaucoup</a>
+			<response></response>
+		</q>
+		<q><!-- 15 -->
+			<text>Je ne me tourne pas vers cette personne lorsque les choses vont mal.</text>
+			<a value="3">Pas du tout</a>
+			<a value="2">En quelque sorte</a>
+			<a value="1">Oui, beaucoup</a>
+			<response></response>
+		</q>
+	</questions>	
+	<scores><![CDATA[<h2>Ton pointage</h2>
+	
+		<h3>15-24 : Lien faible</h3>
+		
+		<p>Ton ami(e) et toi n'êtes pas très proches et ne partagez probablement pas souvent vos sentiments et vos idées ensemble. Ce n'est probablement pas une personne vers qui tu irais lorsque tu as des problèmes. Les amis comme ça peuvent prendre deux directions. Premièrement, il se peut que tu ne sois pas très satisfait(e) et exiges plus de cette relation. Ou alors, il se peut que tu sois correcte avec cette relation et que tu veuilles la garder ainsi, surtout si tu as d'autres amis proches.</p>
+		
+		<h3>25-34 : Lien prudent</h3>
+		
+		<p>Ton ami(e) et toi êtes relativement proches. Vous vous partagez probablement certains de vos sentiments et idées, mais il se peut qu'il en ait que vous préfériez ne pas partager ensemble. Tu pourrais remarquer un rapprochement si tu décidais d'y mettre juste un tout petit peu plus d'efforts.</p>
+		
+		<h3>35-45 : Lien proche</h3>
+		
+		<p>Ton ami(e) et toi êtes assez proches. Vous êtes loyaux et plus ouverts à vous partager vos idées et vos sentiments l'un à l'autre. Tu es probablement très bien dans cette relation d'amitié.</p>
+		
+		<p><a href="http://www.jeunessejecoute.ca/Teens/InfoBooth/Friendship/Rocky-friendships.aspx" target="_top">Continue de lire pour des trucs à propos des amis toxiques</a></p>
+]]></scores>
+</data>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Suis-je dans une relation amoureuse saine?</title>
+	<description><![CDATA[Tu n'es pas sûr(e) si ta relation amoureuse est saine ou malsaine? Fais ce test afin d'en apprendre plus.]]></description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>datingHealthy-bg.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage>datingHealthy-splash-fr.jpg</titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Je me sens à l'aise d'être moi-même lorsque je suis avec la personne avec qui je sors.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>			
+			<response>Tu ne devrais pas avoir à mettre un ''masque'' devant la personne avec qui tu sors. Tu devrais sentir que ton chum ou ta blonde t'accepte tel(le) que tu es, et vice-versa.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>J'ai confiance que la personne avec qui je sors me dit la vérité concernant ses sentiments et ses actions.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response>Tu devrais être capable de faire confiance à ton chum ou à ta blonde pour qu'il/elle se préoccupe de toi et te supporte.</response>
+		</q>		
+		<q><!-- 3 -->
+			<text>Je crois que la personne avec qui je sors veut ce qu'il y a de meilleur pour moi.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response>Ton chum/ta blonde et toi devriez vouloir tous les deux rendre l'autre heureux(se). Cela veut dire que vous vous souciez l'un de l'autre et que vous vous traitez bien.</response>
+		</q>
+		<q><!-- 4 -->
+			<text>J'ai peur de la personne avec qui je sors.</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>
+			<response>Si tu as peur de ton chum ou de ta blonde, c'est un signal d'alarme sérieux. Ce n'est JAMAIS correct pour quelqu'un de faire des choses pour t'effrayer ou te blesser, comme de te suivre et de te harceler, de te menacer, de te blesser physiquement ou de te mettre de la pression pour faire des choses que tu ne veux pas faire. Si tu vis l'un de ces problèmes, essaie d'en parler avec un adulte de confiance. Appelle Jeunesse J'écoute au 1-800-668-6868 ou contacte-nous en ligne. Nous sommes là pour te supporter. </response>
+		</q>
+		<q><!-- 5 -->
+			<text>Mon chum/ma blonde et moi prenons tous les deux les décisions concernant notre relation amoureuse.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response>Dans une relation amoureuse saine, les deux personnes s'impliquent de façon égale dans la prise de décisions et travaillent fort pour parvenir à un accord.</response>
+		</q>
+		<q><!-- 6 -->
+			<text>Mon chum/ma blonde et moi nous nous respectons.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response>Dans une relation amoureuse, le respect signifie de s'écouter l'un l'autre, de prendre l'opinion de l'autre au sérieux et de se traiter gentiment.  Cela veut aussi dire que toi et l'autre personne ne vous rabaissez pas ou ne dirigez pas l'autre.</response>
+		</q>
+		<q><!-- 7 -->
+			<text>Mon chum/ma blonde et moi voulons apprendre à nous connaître plus.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response>Nous avons tous différents aspects de notre personnalité qui changent et évoluent à travers le temps. Dans une relation saine, toi et la personne avec qui tu sors allez toujours trouver quelque chose de nouveau à découvrir de l'autre. </response>
+		</q>
+		<q><!-- 8 -->
+			<text>Je me sens à l'aise de dire à la personne avec qui je sors si j'ai besoin de quelque chose ou si je me sens mal à l'aise.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response>Dans une relation saine, tu devrais te sentir à l'aise de parler de tes besoins et de tes préoccupations.</response>
+		</q>
+		<q><!-- 9 -->
+			<text>Je me sens comme si je suis le/la seul(e) qui est responsable que la relation fonctionne.</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>
+			<response>Dans une relation saine, les deux personnes sont responsables du bon fonctionnement, cela ne dépend pas juste d'une personne.  Partager la responsabilité de la relation est un signe que vous êtes sur la bonne voie.</response>
+		</q>
+		<q><!-- 10 -->
+			<text>Mon chum/ma blonde me supporte en me réconfortant, en m'écoutant et en me démontrant qu'il/elle se soucie de moi.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response>Se procurer du support émotionnel de l'un à l'autre est une grosse part d'une relation saine.</response>
+		</q>
+		<q><!-- 11 -->
+			<text>Je passe beaucoup de temps à penser aux choses qui se passent dans la relation en me demandant "Qu'est-ce que j'aurais pu faire différemment?" ou "Qu'est-ce que j'ai fait?"</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>
+			<response>Si tu te poses ce genre de questions, cela signifie peut-être que tu te sens mal à l'aise de parler de votre relation à ton chum/ta blonde. Vous aurez besoin de travailler sur la communication.</response>
+		</q>
+		<q><!-- 12 -->
+			<text>Mon chum/ma blonde et moi parlons de choses qui sont importantes pour nous.</text>
+			<a value="1">Oui</a>
+			<a value="0">Non</a>
+			<response>Parler de certaines choses, comme de ce qui se passe dans votre vie, vos espoirs, vos rêves et vos peurs ainsi que tout ce qui vous traverse l'esprit, vous aide, ton chum/ta blonde et toi à rester connectés d'une façon saine.</response>
+		</q>				
+	</questions>	
+	<scores><![CDATA[<h2>Ton score</h2>
+		<hr/>
+		<h3>0-4 points = Zone dangereuse</h3>
+		<p>Tes réponses laissent croire que tu es peut-être dans une relation amoureuse malsaine ou non sécuritaire.  Demande-toi: ''Est-ce que je sens que la personne avec qui je sors me respecte?''; ''Est-ce que je me sens à l'aise?''; ''Suis-je heureux(se) dans cette relation?'' Si la réponse à ces questions est ''non'', alors il peut être temps pour un changement.  De plus, si tu as répondu ''Oui'' à la question 4, indiquant que tu as peur de ton/ta partenaire, <a href="http://jeunessejecoute.ca/Teens/InfoBooth/Violence-and-Abuse/Dating-Violence.aspx?lang=fr-ca" target="_blank">votre relation n'est peut-être pas sécuritaire.</a></p>
+		<p>Cela peut être le bon moment pour toi de prendre du recul sur ta relation et de voir si elle répond à tes besoins.  Si tu désires parler avec quelqu'un à propos des relations amoureuses, souviens-toi que Jeunesse J'écoute est toujours là.  Tu peux appeler et parler avec un intervenant professionnel à propos de ta relation amoureuse.  Ensemble, nous pourrons discuter de toutes les préoccupations que tu peux avoir.</p>
+		<h3>5-8 points = Une tempête à l'horizon?</h3>
+		<p>Toutes les relations amoureuses ont leurs hauts et leurs bas.  Tes réponses laissent croire que ta relation n'est pas aussi solide ou saine qu'elle pourrait l'être.  Lis nos conseils (lien: ''Qu'est-ce qu'une relation amoureuse saine?'') pour des idées afin de renforcer ta relation.  De plus, garde un oeil sur le numéro 4 de ce test: si tu as répondu ''Oui'' à cette question, indiquant que tu as peur de ton/ta partenaire, c'est un signal d'alarme majeur et tu pourrais peut-être vouloir penser à faire un changement.</p>
+		<h3>9-12 points = Évolution sans difficulté</h3>
+		<p>Selon tes réponses, ta relation amoureuse semble saine.  Une relation saine répond à tes besoins: tu te sens heureux(se) et en sécurité avec ton chum/ta blonde, vous vous respectez l'un l'autre et vous vous souciez l'un de l'autre.  Par contre, si tu as répondu ''Oui'' à la question numéro 4, indiquant que tu as peur de la personne avec qui tu sors, alors tu n'es pas dans une relation saine.  Une relation saine implique que les deux personnes se sentent en sécurité, autant physiquement qu'émotionnellement, tout en pouvant être elles-mêmes. </p>
+		<p>Les relations peuvent entraîner de la confusion.  Si tu aimerais parler à quelqu'un à propos des relations amoureuses, souviens-toi que Jeunesse J'écoute est toujours là.  Tu peux appeler et parler avec un intervenant professionnel à propos de ta relation amoureuse.  Ensemble, nous pourrons discuter de toutes les préoccupations que tu peux avoir.</p>			
+]]></scores>
+</data>

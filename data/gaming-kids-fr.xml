@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Passes-tu trop de temps à jouer en ligne ?</title>
+	<description><![CDATA[Tu penses que tu passes peut-être trop de temps à jouer en ligne ?<br/>Réponds à ce jeu-questionnaire pour le savoir.]]></description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>gaming-kids-bg.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Joues-tu 15 heures ou plus par semaine ?</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>			
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>Penses-tu aux jeux quand tu n’es pas sur Internet, et es-tu impatient de rentrer à la maison pour pouvoir retourner jouer ?</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response></response>
+		</q>	
+		<q><!-- 3 -->
+			<text>Est-ce que tu joues alors que tu devrais dormir ?</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response></response>
+		</q>			
+		<q><!-- 4 -->
+			<text>Te sens-tu trop fatigué pour aller à l’école parce que tu joues tard le soir ?</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response></response>
+		</q>		
+		<q><!-- 5 -->
+			<text>As-tu plus d’amis en ligne que dans la vraie vie ?</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>T’es-tu déjà senti coupable de jouer autant que tu le fais ?</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>	
+			<response></response>
+		</q>					
+		<q><!-- 7 -->
+			<text>Est-ce que ça t’agace quand les autres critiquent le temps que tu passes à jouer ?</text>
+			<a value="0">Oui</a>
+			<a value="1">Non</a>
+			<response></response>
+		</q>
+	</questions>	
+	<scores><![CDATA[<h2>Ton score</h2>
+		<hr>
+		<p>Si tu as répondu « oui » à quatre questions ou plus, tu es peut-être en train de perdre le contrôle de tes habitudes de jeu.</p>	
+		<hr>	
+		<p><a href="http://www.jeunessejecoute.ca/Kids/InfoBooth/The-Internet/Online-gaming/Am-I-gaming-too-much.aspx" target="_top">Clique ici pour découvrir des conseils qui<br/>pourraient t’être utiles.</a></p>]]>		
+	</scores>
+</data>

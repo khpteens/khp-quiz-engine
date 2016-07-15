@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+    <title>What's your dating I.Q.?</title>
+    <description>How much do you know about dating? Take this quiz and find out!</description>
+    <quizType>2</quizType>
+    <!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+    <backgroundImage>datingIQ-bg.jpg</backgroundImage>
+    <backgroundColour>#024286</backgroundColour>
+    <titleBackgroundImage>datingIQ-splash.jpg</titleBackgroundImage>
+    <questions>
+        <q>
+            <!-- 1 -->
+            <text>Which is a sign of infatuation?</text>
+            <a value="0">Thinking about the other person</a>
+            <a value="0">Having more energy</a>
+            <a value="0">Wanting to be around the other person all the time</a>
+            <a value="1">All of the above</a>
+            <response>When you're infatuated with someone, you tend to think about them a lot, have more energy and want to be around them all the time.</response>
+        </q>
+        <q>
+            <!-- 2 -->
+            <text>Which is a quality of a healthy relationship?</text>
+            <a value="0">Trust</a>
+            <a value="0">Giving and getting support</a>
+            <a value="0">Telling your partner what to do</a>
+            <a value="1">A and B</a>
+            <response>Trust and support are both qualities of a healthy relationship.</response>
+        </q>
+        <q>
+            <!-- 3 -->
+            <text>Which is a sign of a not-so-healthy relationship?</text>
+            <a value="0">Not being able to talk to your bf/gf</a>
+            <a value="0">Arguing all the time</a>
+            <a value="0">Not being able to talk about "safer sex"</a>
+            <a value="1">All of the above</a>
+            <response>Not being able to talk to your bf/gf, arguing all the time, and not feeling comfortable talking about important topics like "safer sex" are all signs of a not-so-healthy relationship.</response>
+        </q>
+        <q>
+            <!-- 4 -->
+            <text>When should you consider breaking up with your BF/GF?</text>
+            <a value="0">If they get a bad haircut</a>
+            <a value="1">If you're afraid of them</a>
+            <a value="0">If you don't have the same taste in music</a>
+            <a value="0">If they fail a test at school</a>
+            <response>If you're afraid of your bf/gf, this is a major warning sign that you're not in a healthy relationship. It might be time to consider whether this is the best relationship for you.</response>
+        </q>
+        <q>
+            <!-- 5 -->
+            <text>Approximately what percentage of parents have rules about when and where their teens can date?</text>
+            <a value="0">25%</a>
+            <a value="0">50%</a>
+            <a value="1">65%</a>
+            <a value="0">100%</a>
+            <response>More than half of parents have rules when it comes to their teens and dating.</response>
+        </q>
+        <q>
+            <!-- 6 -->
+            <text>Which of the following are true of long-distance relationships (LDRs)?</text>
+            <a value="1">Some couples are able to have good LDRs</a>
+            <a value="0">LDRs never work out</a>
+            <a value="0">LDRs are easy</a>
+            <a value="0">A and B</a>
+            <response>Long-distance relationships can be challenging, but there are also positives, and sometimes people can make them work!</response>
+        </q>
+        <q>
+            <!-- 7 -->
+            <text>Approximately what percentage of university student relationships are long-distance?</text>
+            <a value="0">10%</a>
+            <a value="1">33%</a>
+            <a value="0">50%</a>
+            <a value="0">66%</a>
+            <response>It's true, approximately 33% of university student relationships are long-distance.</response>
+        </q>
+        <q>
+            <!-- 8 -->
+            <text>Which of the following statements are true?</text>
+            <a value="0">Infatuation is different from love</a>
+            <a value="0">Casual dating sometimes gets more serious</a>
+            <a value="0">Being infatuated always feels great</a>
+            <a value="1">A and B</a>
+            <response>Two of the statements are true: infatuation and love are not the same thing and casual dating can sometimes get more serious. One is false: being infatuated does not always feel great.</response>
+        </q>
+        <q>
+            <!-- 9 -->
+            <text>What are some ways to get through a break-up?</text>
+            <a value="0">Spend time with friends and family</a>
+            <a value="0">Talk about your feelings</a>
+            <a value="0">Cry or let out your emotions in another way</a>
+            <a value="1">All of the above</a>
+            <response>Spending time with friends and family, talking about your feelings, and crying to let out your emotions are all healthy ways to cope with a break-up. Remember that you can also contact Kids Help Phone at 1-800-668-6868 or reach out to us online.</response>
+        </q>
+        <q>
+            <!-- 10 -->
+            <text>Guys in relationships...</text>
+            <a value="1">Have feelings and can get hurt, just like girls</a>
+            <a value="0">Know more about dating than girls</a>
+            <a value="0">Should make most of the decisions</a>
+            <a value="0">Only want sex</a>
+            <response>It's true, both girls and guys have feelings and can get hurt in relationships.</response>
+        </q>
+    </questions>
+    <scores>
+        <![CDATA[<h2>Your Score</h2>
+	
+		<h3>0-4 points = Dating Newbie</h3>
+		
+		<p>Looks like it's time to improve your dating smarts! Luckily, there's a ton of information out there for you to learn more. Start by reading the other pages in this section. And remember that if you want to talk to someone about dating, the counsellors at Kids Help Phone are always here for you.</p>
+		
+		<h3>5-7 points = Dating Savvy</h3>
+		
+		<p>You're on the right track! You know a fair bit about dating, but you could definitely learn more. Start by reading the other pages in this section, and remember that you can always call a counsellor at Kids Help Phone if you need to talk.</p>
+		
+		<h3>8-10 points = Dating Scholar </h3>
+		
+		<p>Wow! You're a dating scholar! Your dating knowledge will help you handle many different scenarios in your dating life. Your friends might already be seeking your dating advice.</p>
+]]></scores>
+</data>

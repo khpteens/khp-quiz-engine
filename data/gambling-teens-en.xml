@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Am I gambling too much?</title>
+	<description><![CDATA[Take this quiz to see if you have<br/>any of the signs of a gambling problem.]]></description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>gambling-teens.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>Do you spend most, if not all, of your time thinking about gambling?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>			
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>Are you spending more time gambling than hanging out with friends?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response></response>
+		</q>	
+		<q><!-- 3 -->
+			<text>Have you ever gambled more than you planned to?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response></response>
+		</q>			
+		<q><!-- 4 -->
+			<text>Is your gambling causing problems with family or friends?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response></response>
+		</q>		
+		<q><!-- 5 -->
+			<text>Have you considered lying, stealing, or cheating in order to gamble?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>Have you borrowed money from someone in order to gamble with and not paid it back?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response></response>
+		</q>					
+		<q><!-- 7 -->
+			<text>Have you thought about selling things you own or someone else’s stuff in order to get money to gamble?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response></response>
+		</q>
+		<q><!-- 8 -->
+			<text>Have you become less interested in hobbies or activities you used to enjoy since you started gambling?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response></response>
+		</q>
+		<q><!-- 9 -->
+			<text>Have your grades dropped since you started gambling?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response></response>
+		</q>
+		<q><!-- 10 -->
+			<text>Have you ever felt that you would like to stop gambling, but didn’t think you could?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response></response>
+		</q>
+		<q><!-- 11 -->
+			<text>Has anyone told you that you may have a gambling problem, regardless of whether you thought it was true or not?</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response></response>
+		</q>
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr>
+		<h3>Results</h3>
+		<p>If you answered “yes” to any of these questions, you may be losing control of your gambling.</p>	
+		<hr>	
+		<p><a href="http://www.kidshelpphone.ca/Teens/InfoBooth/Emotional-Health/Gambling/If-you-think-you-have-a-problem.aspx" target="_top">Click here to find out what you can do.</a></p>]]>		
+	</scores>
+</data>

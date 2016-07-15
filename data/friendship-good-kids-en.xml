@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>Are we good friends?</title>
+	<description><![CDATA[Think of one of your friends and answer the questions.<br/>Click next to begin the quiz.]]></description>
+	<quizType>2</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>friendship-bg-kids-2.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>My friend doesn’t mind when I have plans with other friends or other things to do.</text>
+			<a value="1">False</a>
+			<a value="2">A bit</a>		
+			<a value="3">True</a>			
+			<response></response>
+		</q>
+		<q><!-- 2 -->
+			<text>I can be myself around my friend.</text>
+			<a value="1">Not at all</a>
+			<a value="2">A bit</a>		
+			<a value="3">Very much</a>
+			<response></response>
+		</q>	
+		<q><!-- 3 -->
+			<text>My friend and I argue a lot.</text>
+			<a value="3">Not at all</a>
+			<a value="2">A bit</a>
+			<a value="1">Very much</a>
+			<response></response>
+		</q>			
+		<q><!-- 4 -->
+			<text>I feel happy when I am with my friend.</text>
+			<a value="1">Not at all</a>
+			<a value="2">A bit</a>		
+			<a value="3">Very much</a>
+			<response></response>
+		</q>		
+		<q><!-- 5 -->
+			<text>My friend helps me when I am having trouble with something.</text>
+			<a value="1">Not at all</a>
+			<a value="2">A bit</a>		
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 6 -->
+			<text>My friend sticks up for me.</text>
+			<a value="1">Not at all</a>
+			<a value="2">A bit</a>		
+			<a value="3">Very much</a>
+			<response></response>
+		</q>					
+		<q><!-- 7 -->
+			<text>If I have a problem, I can talk to my friend about it.</text>
+			<a value="1">Not at all</a>
+			<a value="2">A bit</a>		
+			<a value="3">Very much</a>
+			<response></response>
+		</q>
+		<q><!-- 8 -->
+			<text>My friend and I have fun together.</text>
+			<a value="1">Not at all</a>
+			<a value="2">A bit</a>		
+			<a value="3">Very much</a>
+			<response></response>
+		</q>		
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr>
+
+		<h3>8 to 12 = Bad News Buddies</h3>
+		<p>Yikes! Do you feel upset when you’re with your friend? Do you feel like it’s not okay to be yourself when you’re with your friend? A good friend should be someone who you like spending time with and who treats you nicely.</p>	
+
+		<h3>13 to 19 = Pretty Good Pals</h3>
+		<p>Friendships change from time to time, but they should usually help you feel safe and happy. Can you think of anything you could do to be better friends?</p>
+
+		<h3>20 to 24 = Fantastic Friends</h3>
+		<p>It looks like you have a really great friend! That’s fantastic.</p>	
+
+		<br>	
+		<p><a href="http://www.kidshelpphone.ca/Kids/InfoBooth/Friends/Good-friendships.aspx" target="_top">Keep reading for more help with friendship</a></p>]]>		
+	</scores>
+</data>

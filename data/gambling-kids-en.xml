@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>You Bet: a quiz about gambling</title>
+	<description><![CDATA[Click next to begin the quiz.]]></description>
+	<quizType>2</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>gambling-bg-kids.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage></titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>What types of gambling are kids aged 7 to 13 most likely to do?</text>
+			<a value="0">Playing cards, marbles or dice for money</a>
+			<a value="0">Betting on coin tosses</a>		
+			<a value="0">Lottery or scratch tickets</a>		
+			<a value="1">All of the above</a>			
+			<response>Even young kids are likely to have gambled at different games. They’re usually introduced to gambling by a parent or older person.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>Girls gamble as much as boys.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response>Boys generally gamble more than girls.</response>
+		</q>	
+		<q><!-- 3 -->
+			<text>Many teens with gambling problems started gambling when they were as young as 10 years old.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response>People with gambling problems usually started when they were between 10 and 19 years old.</response>
+		</q>			
+		<q><!-- 4 -->
+			<text>Kids might gamble because:</text>
+			<a value="0">their friends or family gamble</a>
+			<a value="0">they are bored or lonely</a>
+			<a value="0">they think they can win a lot of money easily, even though it’s not true</a>
+			<a value="1">all of the above</a>
+			<response>People start gambling for many different reasons, including because they feel bored, because other people are doing it, because they’re lonely, and because they want to make money.</response>
+		</q>		
+		<q><!-- 5 -->
+			<text>Having a good luck charm can make you luckier.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response>Lucky charms have no effect on gambling. Gambling results are random: they don’t have anything to do with luck.</response>
+		</q>
+		<q><!-- 6 -->
+			<text>If you flip a coin 4 times and get heads, the 5th flip will always be tails.</text>
+			<a value="0">True</a>
+			<a value="1">False</a>
+			<response>When you flip a coin, there is always a 1 in 2 chance that it will be heads. It doesn’t matter what came up in previous flips.</response>
+		</q>					
+		<q><!-- 7 -->
+			<text>The chances of winning an Olympic medal are better than the chances of winning Lotto 6/49.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response>The odds of winning an Olympic medal are 1 in 662,000. The odds of winning the Lotto 6/49 jackpot are 1 in 14 million!</response>
+		</q>
+		<q><!-- 8 -->
+			<text>In the lottery, the numbers 5, 17, 23, 35, 39, 47 are more likely to win than the numbers 1, 2, 3, 4, 5, 6.</text>
+			<a value="0">True</a>
+			<a value="1">False: both have the same chance of winning</a>
+			<a value="0">It depends on how many people bought tickets</a>
+			<a value="0">It depends on what numbers came up last time</a>
+			<response>No one can predict what lottery numbers will come up in a draw. Every number has an equal chance of winning.</response>
+		</q>
+		<q><!-- 9 -->
+			<text>People who have a gambling problem often need help, like counselling, to stop.</text>
+			<a value="1">True</a>
+			<a value="0">False</a>
+			<response>People with problems often need help from professionals to get their gambling under control.</response>
+		</q>
+		<q><!-- 10 -->
+			<text>How well someone does at a card game depends mostly on:</text>
+			<a value="0">How lucky they are</a>
+			<a value="0">How much they’ve practiced</a>
+			<a value="0">How much they know about numbers </a>
+			<a value="1">Chance</a>
+			<response>Gambling games – even card games like poker – are mostly a matter of chance. Lucky charms and practicing can’t help someone win.</response>
+		</q>
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr>
+		<h3>How did you do?</h3>
+		<p>If you were surprised at some of the answers, you’re not alone. There are a lot of myths around about gambling. That’s why it’s important to learn about gambling before you start playing.</p>	
+		<br>	
+		<p><a href="http://www.kidshelpphone.ca/Kids/InfoBooth/Money/Gambling.aspx" target="_top">Read our gambling topic to get a good start!</a></p>]]>		
+	</scores>
+</data>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<title>How relationship ready are you?</title>
+	<description>Are you ready for a relationship? Take this quiz and find out.</description>
+	<quizType>1</quizType><!-- 1="truefalse"(2 options, true or false),2="multiplechoice"(1 right answer),3="weighted"(each choice has different value,best answers), -->
+	<backgroundImage>datingRelationshipReady-bg.jpg</backgroundImage>
+	<backgroundColour>#024286</backgroundColour>
+	<titleBackgroundImage>datingRelationshipReady-splash.jpg</titleBackgroundImage>
+	<questions>
+		<q><!-- 1 -->
+			<text>I have a good idea of who I am: what I like, what I don't like, what I'm good at, and what I believe in.</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>			
+			<response>Before you start getting to know someone else, it helps to know yourself.</response>
+		</q>
+		<q><!-- 2 -->
+			<text>Most of the time, I like who I am.</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response>Before you can be in a healthy relationship with another person, you have to like who you are on your own!</response>
+		</q>		
+		<q><!-- 3 -->
+			<text>I have a good sense of what relationships are like from TV.</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>
+			<response>TV shows are fun, but they're not a great place to learn about dating or relationships. You'll get a much more realistic picture from the couples in your real life.</response>
+		</q>
+		<q><!-- 4 -->
+			<text>If I was in a relationship, I'd be happier.</text>
+			<a value="0">Yes</a>
+			<a value="1">No</a>
+			<response>You've heard this a million times, but it's true: the only person who can really make you feel good about yourself is you. If you're expecting another person to make you happy, it can put too much pressure on that person, and won't help you have a healthy relationship.</response>
+		</q>
+		<q><!-- 5 -->
+			<text>My parents are OK with me dating.</text>
+			<a value="1">Yes</a>
+			<a value="0">No</a>
+			<response>If your parents are OK with you dating, it can make things easier, and if they're not, it can cause problems along the way. As frustrating as they can be, try to remember that your parents' rules about dating are often intended to keep you safe.  </response>
+		</q>				
+	</questions>	
+	<scores><![CDATA[<h2>Your Score</h2>
+		<hr/>
+		<h3>Ready to date?</h3>
+		<p>No matter what your score, only you can decide if and when you're ready to start dating or be in a relationship. Still, there are some key questions you might want to think about before you start dating: Do you know who you are? What do you expect from a person you want to date or be in a relationship with? Thinking about why you want (or don't want) to date will help you figure out your own values, and help you avoid getting involved with someone else for the wrong reasons. No matter how much thinking you do, though, the decision to start dating may come down to a feeling, so trust your instincts and don't be afraid to say "no".</p>		
+]]></scores>
+</data>
